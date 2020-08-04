@@ -11,6 +11,7 @@
 - [Building Components Sensibly](#building-components-in-order)
 	- [Start With Props](#start-with-props)
 	- [Build with Defaults](#build-with-defaults)
+	- [Test Often](#test-often)
 
 ### Heavily Data Driven Applications
 Dashboards.
@@ -105,4 +106,31 @@ useEffect(() => {
 //this will render the 1x with '-' as a default text
 //this will render the 2x with the text that was fetched
 <Header txt={headerText} />
+```
+
+**or another way...**
+```
+const Header = ({txt}) => {
+  //here, the default text is set internally
+  let resText = txt || '-'
+  return (<h1>{resText}</h1>)
+}
+```
+
+#### Test Often
+Even a trivial component like this could have tests to assert prop-driven ui content:
+- the txt prop is passed as expected
+- the 'default' text value is populated when no prop is passed
+```
+import {shallow} from 'enzyme';
+describe('<Header />', () => {
+  it('renders "-" when no txt val', () => {
+    const Comp = shallow(<Header />)
+    expect(Comp.find('h1').text()).toBe("-");
+  })
+  it('renders prop val when passed', () => {
+    const Comp = shallow(<Header txt={'demo here'}/>)
+    expect(Comp.find('h1').text()).toBe("demo here");
+  })
+})
 ```
