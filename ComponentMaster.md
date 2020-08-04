@@ -75,3 +75,34 @@ const Header = ({txt}) => (<h1>{txt}</h1>)
 (rendering with)
 <Header txt="Prop-Driven Text Here" />
 ```
+
+#### Build With Defaults
+Assert a default value
+**instead of...**
+```
+const Header = ({txt}) => (<h1>{txt}</h1>)
+
+(rendering with)
+<Header txt="Prop-Driven Text Here" />
+```
+**start with...**
+```
+const Header = ({txt}) => (<h1>{txt}</h1>)
+
+
+. . . . . .
+
+
+//HERE, '-' is the 'default'
+let [headerText, setHeaderText] = useState('-')
+
+//trigger a CHANGE in the headerText val
+useEffect(() => {
+	//fetch some text
+	setHeaderText(fetchedText)
+}, [])
+
+//this will render the 1x with '-' as a default text
+//this will render the 2x with the text that was fetched
+<Header txt={headerText} />
+```
