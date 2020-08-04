@@ -1,4 +1,5 @@
-## The Component Master
+
+## The Component Ninja
 
 ### Points Of Interest
 - prop-driven components
@@ -7,6 +8,9 @@
 - Composability
 - "Reason"ability
 - Reuse when sensible
+- [Building Components Sensibly](#building-components-in-order)
+	- [Start With Props](#start-with-props)
+	- [Build with Defaults](#build-with-defaults)
 
 ### Heavily Data Driven Applications
 Dashboards.
@@ -14,10 +18,11 @@ Spreadsheet replacements.
 Data-uploading guis.
 Data explorers, reports, analytics, alerts...
 These are heavily data-influenced application types. In these use-cases, the data on the screen is probably used to inform a persons time, finances, human resource allocations, company policies, workplace interactions... the list goes on.
-When building react components that are parts of applications like these, rigorous standards are worth-while - components should be **trustworthy**
+
+#### Data Driven Components
+When building react components that are parts of applications like these, rigorous standards are worth-while - - components should be **trustworthy:**
 - they show the values they are expected to
-- component flexibility is bullet-proof,  && as a developer assuring that all rendering cases are assured to _only_ happen when data 'tells' the component to
-	
+- component flexibility is bullet-proof,  && as a developer assuring that all rendering cases are as expected
 
 ###  Reusability in action  
 Component Developers often find ourselves in familiar dev territory, re-writing similar code constantly. Shoot for sensible re-usability:
@@ -51,3 +56,22 @@ Tests give trust:
 				- ``` const classString = (prop) => prop ? 'class-one' : 'class-two'```
 			- when a conditional 'info' component is present
 				- ```const isPresent = prop => prop > 2 ? true : false``` 
+
+
+### Building Components in order  
+#### Start With Props
+Instead of starting with content _inside_ the jsx, start with the content passes as props...
+**instead of...**
+```
+const Header = () => (<h1>Prop-Driven Text Here</h1>)
+
+(rendering with)
+<Header />
+```
+**start with...**
+```
+const Header = ({txt}) => (<h1>{txt}</h1>)
+
+(rendering with)
+<Header txt="Prop-Driven Text Here" />
+```
