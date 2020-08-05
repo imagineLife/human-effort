@@ -66,7 +66,7 @@ Tests give trust:
 
 ### Building Components in order  
 #### Start With Props
-Instead of starting with content _inside_ the jsx, start with the content passes as props...
+Instead of starting a new component with content _inside_ the jsx, start with the content passes as props...
 **instead of...**
 ```
 const Header = () => (<h1>Prop-Driven Text Here</h1>)
@@ -113,12 +113,19 @@ useEffect(() => {
 <Header txt={headerText} />
 ```
 
-**or another way...**
+**or another way of setting a default value...**
 ```
 const Header = ({txt}) => {
   //here, the default text is set internally
   let resText = txt || '-'
   return (<h1>{resText}</h1>)
+}
+```
+
+**or maybe...**
+```
+const Header = ({txt}) => {
+  return (<h1>{resText || '-'}</h1>)
 }
 ```
 
