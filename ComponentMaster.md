@@ -59,6 +59,11 @@ Tests give trust:
 				- ```const isPresent = prop => prop > 2 ? true : false``` 
 
 
+
+
+
+
+
 ### Building Components in order  
 #### Start With Props
 Instead of starting with content _inside_ the jsx, start with the content passes as props...
@@ -148,6 +153,12 @@ Without Digging into syntax.
 Practice explaining what your code does.
 Maybe even in front of your superiors.
 This can bring greater understanding to what the code is doing, and may clear up messes, reduce complexitites or redundancies, and make the code and the project better.   
+
+#### Attempt to understand dependencies  
+We can become over-dependant on dependencies.  
+We may be using dependencies that introduce hundreds of lines of logic into our code, just to save ourselves 3-4 lines of manual effort.  
+We may not realize that we can do the same thing a dependency does! Maybe even sometimes resulting in less confusion, more simplicity, and even more trust in the code!
+We might find oursevles programming to fit the depndency that has breaking changes, just to solve the same problem that was solved before the break.  
 
 #### Take Advice  
 Listen to those who are ahead of you. They might have solved the exact problems you are working on.  
