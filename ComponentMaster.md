@@ -135,18 +135,19 @@ describe('<Header />', () => {
 })
 ```
 
-#### Fix Bugs (_...before continuing with new features!_)
+### Fix Bugs (_...before continuing with new features!_)
 We may have the luxury of working on a few features 'at once', or at least be able to start something while our last pieces of code get reviewed. Once those details you've already worked on, and submitted for approval, and have been found to have bugs...  
 ... fix the bugs.  
 Before you continue on the new featture(s) you are working on.
 
+
+### Understand
 #### Explain your code  
 In English. (_assuming you're reading this in its native language_)
 Without Digging into syntax.  
 Practice explaining what your code does.
 Maybe even in front of your superiors.
 This can bring greater understanding to what the code is doing, and may clear up messes, reduce complexitites or redundancies, and make the code and the project better.   
-
 
 #### Take Advice  
 Listen to those who are ahead of you. They might have solved the exact problems you are working on.  
