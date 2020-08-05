@@ -166,6 +166,22 @@ Listen to those who are ahead of you. They might have solved the exact problems 
 #### Look for advice   
 Look for people who have what you want. They can give you insights.  
 
+#### Keep Learning && Applying
+Learn that JS thing that you are sort-of interested in...  
+Call.  
+Bind.  
+Reduce.  
+Currying.  
+Async / Await.
+
+Learn react details.  
+useMemo.
+useRef.  
+Suspense.  
+cloneElement.  
+
+Apply these things as fast as you learn them. This will crystalize the understanding process. Maybe even explain the code to some folks. 
+
 
 
 
