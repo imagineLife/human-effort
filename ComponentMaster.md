@@ -130,7 +130,7 @@ const Header = ({txt}) => {
 ```
 
 #### Test Often
-Even a trivial component like this could have tests to assert prop-driven ui content:
+Even a trivial component like this Header example above could have tests to assert prop-driven ui content:
 - the txt prop is passed as expected
 - the 'default' text value is populated when no prop is passed
 ```
@@ -148,9 +148,9 @@ describe('<Header />', () => {
 ```
 
 ### Fix Bugs (_...before continuing with new features!_)
-We may have the luxury of working on a few features 'at once', or at least be able to start something while our last pieces of code get reviewed. Once those details you've already worked on, and submitted for approval, and have been found to have bugs...  
+We may have the luxury of working on a few features 'at once', or at least be able to start something while our last pieces of code get reviewed by peers or q folks. Once those details you've already worked on, and submitted for approval, and have been found to have bugs...  
 ... fix the bugs.  
-Before you continue on the new featture(s) you are working on.
+Before you continue on the new feature(s) you are currently working on.
 
 
 ### Understand
@@ -158,12 +158,12 @@ Before you continue on the new featture(s) you are working on.
 In English. (_assuming you're reading this in its native language_)
 Without Digging into syntax.  
 Practice explaining what your code does.
-Maybe even in front of your superiors.
-This can bring greater understanding to what the code is doing, and may clear up messes, reduce complexitites or redundancies, and make the code and the project better.   
+Maybe even in front of your peers. Or even your superiors.
+This can bring greater understanding to what the code is doing, and may clear up unintended messes in the code... maybe even reduce complexitites or redundancies.
 
 #### Attempt to understand dependencies  
 We can become over-dependant on dependencies.  
-We may be using dependencies that introduce hundreds of lines of logic into our code, just to save ourselves 3-4 lines of manual effort.  
+We may be using dependencies that introduce dozens, even hundreds of lines of logic into our code, just to save ourselves 3-4 lines of manual effort.  
 We may not realize that we can do the same thing a dependency does! Maybe even sometimes resulting in less confusion, more simplicity, and even more trust in the code!
 We might find oursevles programming to fit the depndency that has breaking changes, just to solve the same problem that was solved before the break.  
 
