@@ -134,3 +134,10 @@ describe('<Header />', () => {
   })
 })
 ```
+
+#### Fix Bugs (_...before continuing with new features!_)
+We may have the luxury of working on a few features 'at once', or at least be able to start something while our last pieces of code get reviewed. Once those details you've already worked on, and submitted for approval, and have been found to have bugs...  
+... fix the bugs.  
+Before you continue on the new featture(s) you are working on.
+
+
