@@ -141,3 +141,15 @@ We may have the luxury of working on a few features 'at once', or at least be ab
 Before you continue on the new featture(s) you are working on.
 
 
+#### Take Advice  
+Listen to those who are ahead of you. They might have solved the exact problems you are working on.  
+
+#### Look for advice.  
+Look for people who have what you want. They can give you insights.  
+
+
+
+
+
+
+
