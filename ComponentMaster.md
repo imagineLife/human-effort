@@ -1,4 +1,5 @@
 
+
 ## The Component Ninja
 
 ### Points Of Interest
@@ -12,6 +13,8 @@
 	- [Start With Props](#start-with-props)
 	- [Build with Defaults](#build-with-defaults)
 	- [Test Often](#test-often)
+	- [Fix Bugs](#fix-bugs)
+- [Understand the Code](#understand-the-code)
 
 ### Heavily Data Driven Applications
 Dashboards.
@@ -147,13 +150,15 @@ describe('<Header />', () => {
 })
 ```
 
-### Fix Bugs (_...before continuing with new features!_)
+### Fix Bugs 
+(_...before continuing with new features!_)
+
 We may have the luxury of working on a few features 'at once', or at least be able to start something while our last pieces of code get reviewed by peers or q folks. Once those details you've already worked on, and submitted for approval, and have been found to have bugs...  
 ... fix the bugs.  
 Before you continue on the new feature(s) you are currently working on.
 
 
-### Understand
+### Understand the Code
 #### Explain your code  
 In English. (_assuming you're reading this in its native language_)
 Without Digging into syntax.  
@@ -190,9 +195,6 @@ React's Diffing smarts.
 Become a React DevTool expert.  
 
 Apply these things as fast as you learn them. This will crystalize the understanding process. Maybe even explain the code to some folks. 
-
-
-
 
 
 
