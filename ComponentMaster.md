@@ -9,12 +9,21 @@
 - Composability
 - "Reason"ability
 - Reuse when sensible
-- [Building Components Sensibly](#building-components-in-order)
+
+- [Build Components Sensibly](#build-components-in-order)
 	- [Start With Props](#start-with-props)
 	- [Build with Defaults](#build-with-defaults)
 	- [Test Often](#test-often)
 	- [Fix Bugs](#fix-bugs)
+	- [Take Advice](#take-advice)
+	- [Look For Advice](#look-for-advice)
+
+**Extra Credit**
 - [Understand the Code](#understand-the-code)
+	- [Explain It](#explain-your-code)
+	- [Dig in to dependencies](#attempt-to-understand-dependencies)
+	- [Learn More JS](#learn-more-js)
+	- [Master React](#master-react)
 
 ### Heavily Data Driven Applications
 Dashboards.
@@ -67,7 +76,7 @@ Tests give trust:
 
 
 
-### Building Components in order  
+### Build Components in order  
 #### Start With Props
 Instead of starting a new component with content _inside_ the jsx, start with the content passes as props...
 **instead of...**
@@ -157,6 +166,12 @@ We may have the luxury of working on a few features 'at once', or at least be ab
 ... fix the bugs.  
 Before you continue on the new feature(s) you are currently working on.
 
+#### Take Advice  
+Listen to those who are ahead of you. They might have solved the exact problems you are working on.  
+
+#### Look for advice   
+Look for people who have what you want. They can give you insights. 
+
 
 ### Understand the Code
 #### Explain your code  
@@ -170,23 +185,18 @@ This can bring greater understanding to what the code is doing, and may clear up
 We can become over-dependant on dependencies.  
 We may be using dependencies that introduce dozens, even hundreds of lines of logic into our code, just to save ourselves 3-4 lines of manual effort.  
 We may not realize that we can do the same thing a dependency does! Maybe even sometimes resulting in less confusion, more simplicity, and even more trust in the code!
-We might find oursevles programming to fit the depndency that has breaking changes, just to solve the same problem that was solved before the break.  
+We might find oursevles programming to fit the depndency that has breaking changes, just to solve the same problem that was solved before the break.   
 
-#### Take Advice  
-Listen to those who are ahead of you. They might have solved the exact problems you are working on.  
-
-#### Look for advice   
-Look for people who have what you want. They can give you insights.  
-
-#### Keep Learning && Applying
-**Learn that JS detail** that you might be sort-of interested in...  
+#### Learn More JS
+Learn that JS detail that you might be sort-of interested in...  
 Call.  
 Bind.  
 Reduce.  
 Currying.  
 Async / Await.
 
-**Learn more about react.**  
+
+#### Master all the react
 useMemo.
 useRef.  
 Suspense.  
@@ -195,6 +205,9 @@ React's Diffing smarts.
 Become a React DevTool expert.  
 
 Apply these things as fast as you learn them. This will crystalize the understanding process. Maybe even explain the code to some folks. 
+
+
+
 
 
 
