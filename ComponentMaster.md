@@ -161,8 +161,9 @@ describe('<Header />', () => {
 ```
 
 ### Building For Easy Dev Work
-Go for boolean props instead of prop-&-value combos.
+Go for boolean props instead of prop-&-value combos. Put the _implementation details_ of component logic inside the component code itself, and make the component simpler to use for the developers around you. 
 - Shoot for something like ```border``` as a prop instead of ```className="border"```. Put the border _logic_ inside the component itself. 
+- Shoot for ```large``` as a prop instead of ```className="button large font-large shadow-big"```.
 
 ### Fix Bugs 
 (_...before continuing with new features!_)
