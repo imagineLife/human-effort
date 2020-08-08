@@ -14,6 +14,7 @@
 	- [Start With Props](#start-with-props)
 	- [Build with Defaults](#build-with-defaults)
 	- [Test Often](#test-often)
+	- [Build for easy development](#building-for-easy-dev-work)
 	- [Fix Bugs](#fix-bugs)
 	- [Take Advice](#take-advice)
 	- [Look For Advice](#look-for-advice)
@@ -159,6 +160,9 @@ describe('<Header />', () => {
 })
 ```
 
+### Building For Easy Dev Work
+Go for boolean props instead of prop-&-value combos.
+
 ### Fix Bugs 
 (_...before continuing with new features!_)
 
@@ -202,7 +206,7 @@ useRef.
 Suspense.  
 cloneElement.  
 React's Diffing smarts.  
-Become a React DevTool expert.  
+React DevTools.  
 
 Apply these things as fast as you learn them. This will crystalize the understanding process. Maybe even explain the code to some folks. 
 
