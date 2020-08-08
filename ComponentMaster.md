@@ -211,7 +211,8 @@ React's Diffing smarts.
 React DevTools.  
 Compound Components.
 Render Props.
-Implicit props. 
+Implicit props.  
+Context.
 
 Apply these things as fast as you learn them. This will crystalize the understanding process. Maybe even explain the code to some folks. 
 
