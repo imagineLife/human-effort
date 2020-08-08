@@ -162,6 +162,7 @@ describe('<Header />', () => {
 
 ### Building For Easy Dev Work
 Go for boolean props instead of prop-&-value combos.
+- Shoot for something like ```border``` as a prop instead of ```className="border"```. Put the border _logic_ inside the component itself. 
 
 ### Fix Bugs 
 (_...before continuing with new features!_)
