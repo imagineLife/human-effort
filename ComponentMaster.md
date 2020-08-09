@@ -34,9 +34,12 @@ Data explorers, reports, analytics, alerts...
 These are heavily data-influenced application types. In these use-cases, the data on the screen is probably used to inform a persons time, finances, human resource allocations, company policies, workplace interactions... the list goes on.
 
 #### Data Driven Components
-When building react components that are parts of applications like these, rigorous standards are worth-while - - components should be **trustworthy:**
-- they show the values they are expected to
-- component flexibility is bullet-proof,  && as a developer assuring that all rendering cases are as expected
+When building react components that are parts of applications like these, rigorous standards are worth-while - - components should be  
+- **trustworthy:**
+  - they show the values they are expected to
+  - the 'default' value is expected
+- **flexible**
+  - component flexibility expecttions are clear, tested, and in-use
 
 ###  Reusability in action  
 Component Developers often find ourselves in familiar dev territory, re-writing similar code constantly. Shoot for sensible re-usability:
