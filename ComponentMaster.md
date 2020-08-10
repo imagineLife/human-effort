@@ -1,5 +1,6 @@
 
 
+
 ## The Component Ninja
 
 ### Points Of Interest
@@ -49,7 +50,14 @@ Component Developers often find ourselves in familiar dev territory, re-writing 
 When building flexible && re-usable components, rely on tests to assure that all cases happen when && only when the use-cases are instructed to by data....
 - have a border that only shows up in **xyz** circumstance? test it.
 - have a header or footer that only shows up when **bcd** is true? test it.
--  
+
+### Persistence Ignorant Components
+Consider making **as much 'state' logic as possible** outside the scope of a component:
+- need to **fetch** some data? do it in a provider
+- need to  **trigger a new fetch**? call a fn that's been passed through a prop, or a fn that is imported through using a context
+- need to **respond to new data**? ... react can do this well already!
+
+
 
 ### Testable
 _"Every single time a bug is encountered, user trust erodes."_ [Kent Dodds](https://testingjavascript.com/)
