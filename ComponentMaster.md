@@ -1,16 +1,4 @@
-
-
-
-
-## The Component Ninja
-
-### Points Of Interest
-- prop-driven components
-- React for a heavily data-driven UI
-- Testability
-- Composability
-- "Reason"ability
-- Reuse when sensible
+## A React Aficionado
 
 - [Build Components Sensibly](#build-components-in-order)
 	- [Start With Props](#start-with-props)
@@ -18,8 +6,8 @@
 	- [Test Often](#test-often)
 	- [Build for easy development](#building-for-easy-dev-work)
 	- [Fix Bugs](#fix-bugs)
-	- [Take Advice](#take-advice)
-	- [Look For Advice](#look-for-advice)
+- [Take Advice](#take-advice)
+- [Look For Advice](#look-for-advice)
 
 **Extra Credit**
 - [Understand the Code](#understand-the-code)
@@ -29,54 +17,7 @@
 	- [Master React](#master-react)
 - A note on [Data-Driven Applications](#heavily-data-driven-applications)
 
-- - - - -
-
-###  Reusability in action  
-Component Developers often find ourselves in familiar dev territory, re-writing similar code constantly. Shoot for sensible re-usability:
-...Making another 'box' that looks _slightly different_ from the other 4 boxes on the page?  
-...Making another table-cell that has a few of the same classes as other table cells on the page?
-
-When building flexible && re-usable components, rely on tests to assure that all cases happen when && only when the use-cases are instructed to by data....
-- have a border that only shows up in **xyz** circumstance? test it.
-- have a header or footer that only shows up when **bcd** is true? test it.
-
-### Persistence Ignorant Components
-Consider making **as much 'state' logic as possible** outside the scope of a component:
-- need to **fetch** some data? do it in a provider
-- need to  **trigger a new fetch**? call a fn that's been passed through a prop, or a fn that is imported through using a context
-- need to **respond to new data**? ... react can do this well already!
-
-
-
-### Testable
-_"Every single time a bug is encountered, user trust erodes."_ [Kent Dodds](https://testingjavascript.com/)
-
-Tests give trust:
-- trust that the **component** does what it is 'supposed' to do
-- trust **from other front-end developers** that the code is understandable, sensible, well thought-through, and well cared for beyond 'it works for me'
-- trust **from those outside the immediate front-end role**, like ci-cd specialists, api specialists,  stakeholders
-
-**TESTING COMPONENTS**
-- assure that **props** are passed to their expected UI elements
-	- **Perhaps Skip Testing Prop values**
-		- [Enzyme](https://enzymejs.github.io/enzyme/) offers testing features that can assure that a react prop, itself, is as expected, something like ```expect(wrapper.prop('propNameHere')).to.equal('ExpectedPropVal');``` Although this tests that props are as expected, this is not as strong a test as assuring that the prop _value_ is passed to the dom expectedly
-	- **Test Prop-Driven UI Content**
-		- When a Ui element is populated from props, testit...
-			- text
-			- element presence
-			- number of elements
-		- When component 'inner logic' is based off props, perhaps extract the 'inner logic' to an external function. Then, the once tightly-coupled component logic can be tested as stand-alone javascript functional logic 
-			- when a class is determined from a prop value...
-				- ``` const classString = (prop) => prop ? 'class-one' : 'class-two'```
-			- when a conditional 'info' component is present
-				- ```const isPresent = prop => prop > 2 ? true : false``` 
-
-
-
-
-
-
-
+- - - 
 ### Build Components in order  
 #### Start With Props
 Instead of starting a new component with content _inside_ the jsx, start with the content passes as props...
@@ -143,6 +84,8 @@ const Header = ({txt}) => {
 ```
 
 #### Test Often
+_"Every single time a bug is encountered, user trust erodes."_ [Kent Dodds](https://testingjavascript.com/)
+
 Test all props of a component, and how the prop affects...
 - html output
 - component interaction
@@ -167,10 +110,17 @@ describe('<Header />', () => {
 })
 ```
  
+ Tests give trust:
+- trust that the **component does what it is 'supposed' to do**
+- **trust from other developers** that the code is understandable, sensible, well thought-through, and well cared for beyond 'it works for me'
+- trust **from those outside the immediate front-end role**, like ci-cd specialists, api specialists,  stakeholders
+
 ### Building For Easy Dev Work
-Go for boolean props instead of prop-&-value combos. Put the _implementation details_ of component logic inside the component code itself, and make the component simpler to use for the developers around you. 
-- Shoot for something like ```border``` as a prop instead of ```className="border"```. Put the border _logic_ inside the component itself. 
-- Shoot for ```large``` as a prop instead of ```className="button large font-large shadow-big"```.
+Abstract away implentation details by sensibly naming props.
+Go for boolean props instead of prop-&-value combos. Put the _implementation details_ of component logic inside the component code itself, and make the component simpler to use for the developers around you, by using 
+
+- Shoot for a prop name like ```border``` as a prop instead of ```className="border"```. Put the border _logic_ inside the component itself, and give the developer a simpler component api.
+- Shoot for ```large``` as a prop instead of ```className="button-wide font-xl button-tall"```. Make the component internals interpret the one-word prop and set the component with all appropriate details.
 
 ### Fix Bugs 
 (_...before continuing with new features!_)
@@ -241,5 +191,28 @@ When building react components that are parts of applications like these, rigoro
   - component flexibility expecttions are clear, tested, and in-use
 
 
+- - - 
+- ### Points Of Interest
+- prop-driven components
+- React for a heavily data-driven UI
+- Testability
+- Composability
+- "Reason"ability
+- Reuse when sensible
 
+- - - - -
 
+###  Reusability in action  
+Component Developers often find ourselves in familiar dev territory, re-writing similar code constantly. Shoot for sensible re-usability:
+...Making another 'box' that looks _slightly different_ from the other 4 boxes on the page?  
+...Making another table-cell that has a few of the same classes as other table cells on the page?
+
+When building flexible && re-usable components, rely on tests to assure that all cases happen when && only when the use-cases are instructed to by data....
+- have a border that only shows up in **xyz** circumstance? test it.
+- have a header or footer that only shows up when **bcd** is true? test it.
+
+### Persistence Ignorant Components
+Consider making **as much 'state' logic as possible** outside the scope of a component:
+- need to **fetch** some data? do it in a provider
+- need to  **trigger a new fetch**? call a fn that's been passed through a prop, or a fn that is imported through using a context
+- need to **respond to new data**? ... react can do this well already!
