@@ -1,6 +1,7 @@
 
 
 
+
 ## The Component Ninja
 
 ### Points Of Interest
@@ -26,21 +27,9 @@
 	- [Dig in to dependencies](#attempt-to-understand-dependencies)
 	- [Learn More JS](#learn-more-js)
 	- [Master React](#master-react)
+- A note on [Data-Driven Applications](#heavily-data-driven-applications)
 
-### Heavily Data Driven Applications
-Dashboards.
-Spreadsheet replacements.
-Data-uploading guis.
-Data explorers, reports, analytics, alerts...
-These are heavily data-influenced application types. In these use-cases, the data on the screen is probably used to inform a persons time, finances, human resource allocations, company policies, workplace interactions... the list goes on.
-
-#### Data Driven Components
-When building react components that are parts of applications like these, rigorous standards are worth-while - - components should be  
-- **trustworthy:**
-  - they show the values they are expected to
-  - the 'default' value is expected
-- **flexible**
-  - component flexibility expecttions are clear, tested, and in-use
+- - - - -
 
 ###  Reusability in action  
 Component Developers often find ourselves in familiar dev territory, re-writing similar code constantly. Shoot for sensible re-usability:
@@ -154,23 +143,30 @@ const Header = ({txt}) => {
 ```
 
 #### Test Often
+Test all props of a component, and how the prop affects...
+- html output
+- component interaction
+- conditional rendering of any 'child' elements
+
+Test JS logic. Break a 'filter', 'map', or 'reduce' callback out into a testable javascript function. Move a conditional-logic switch statement into a testable javascript function. 
+
 Even a trivial component like this Header example above could have tests to assert prop-driven ui content:
 - the txt prop is passed as expected
 - the 'default' text value is populated when no prop is passed
 ```
-import {shallow} from 'enzyme';
+import {mount} from 'enzyme';
 describe('<Header />', () => {
   it('renders "-" when no txt val', () => {
-    const Comp = shallow(<Header />)
+    const Comp = mount(<Header />)
     expect(Comp.find('h1').text()).toBe("-");
   })
   it('renders prop val when passed', () => {
-    const Comp = shallow(<Header txt={'demo here'}/>)
+    const Comp = mount(<Header txt={'demo here'}/>)
     expect(Comp.find('h1').text()).toBe("demo here");
   })
 })
 ```
-
+ 
 ### Building For Easy Dev Work
 Go for boolean props instead of prop-&-value combos. Put the _implementation details_ of component logic inside the component code itself, and make the component simpler to use for the developers around you. 
 - Shoot for something like ```border``` as a prop instead of ```className="border"```. Put the border _logic_ inside the component itself. 
@@ -229,6 +225,20 @@ Apply these things as fast as you learn them. This will crystalize the understan
 
 
 
+### Heavily Data Driven Applications
+Dashboards.
+Spreadsheet replacements.
+Data-uploading guis.
+Data explorers, reports, analytics, alerts...
+These are heavily data-influenced application types. In these use-cases, the data on the screen is probably used to inform a persons time, finances, human resource allocations, company policies, workplace interactions... the list goes on.
+
+#### Data Driven Components
+When building react components that are parts of applications like these, rigorous standards are worth-while - - components should be  
+- **trustworthy:**
+  - they show the values they are expected to
+  - the 'default' value is expected
+- **flexible**
+  - component flexibility expecttions are clear, tested, and in-use
 
 
 
