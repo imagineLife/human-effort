@@ -86,12 +86,11 @@ const Header = ({txt}) => {
 #### Test Often
 _"Every single time a bug is encountered, user trust erodes."_ [Kent Dodds](https://testingjavascript.com/)
 
-Test all props of a component, and how the prop affects...
-- html output
-- component interaction
+Start with testing...
+- html output from props
+- interaction
 - conditional rendering of any 'child' elements
-
-Test JS logic. Break a 'filter', 'map', or 'reduce' callback out into a testable javascript function. Move a conditional-logic switch statement into a testable javascript function. 
+- integrated JS logic
 
 Even a trivial component like this Header example above could have tests to assert prop-driven ui content:
 - the txt prop is passed as expected
@@ -109,6 +108,9 @@ describe('<Header />', () => {
   })
 })
 ```
+
+Test JS logic.  
+Break a 'filter', 'map', or 'reduce' callback out into a testable javascript function. Move a conditional-logic switch statement into a testable javascript function. 
  
  Tests give trust:
 - trust that the **component does what it is 'supposed' to do**
