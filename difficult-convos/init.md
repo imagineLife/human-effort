@@ -25,20 +25,31 @@
   - **try to move away from the right/wrong convo** and toward **perception, expressing my own understandings, naming what is important to me**  
 - Intention
   - what were your intentions, what are my intentions
-  -   
+  - **wrongly**, I assume i know, and understand the intentions of the other
+  - **wrongly** I might assume the other has bad intentions
+  - **Intentions are invisible**
 
+- Blaming
+  - **wrongly** I might focus on blaming the other
+  - **How we got here is due to both parties**, in some way
+  - Focus on...
+    - **understanding** how we got here
+    - the cause of the problem outside the scope of blame
 
 ### The 'Feelings' Convo
+- **what do we do with our emotions?**
 - asking && answering questions about feelings
   - are my feelings... 
     - valid
   	- appropriate
 	- should I acknowledge my feelings
 	- should I deal with the facts instead of my feelings
+- **Review Emotional Intelligence**
+
 
 ## The 'Identity' Convo
+- **"What does this say about me?"**  
 - internal to ourselves
 - "what does this moment really mean to me"
 	- what is the impact on the relationship
 	- my self-worth might be on the line
-
