@@ -8,7 +8,9 @@
 - feel like I have pent-up concerns over time
 - feel like I miss out on something
 - feel like I am dividing or being divided from others
-- feel like something won't get accomplished or addressed otherwise
+- feel like something won't get accomplished or addressed otherwise  
+
+
 **CONFRONTING** might...
 - make things worse
 - make me realize that I made a mountain out of a molehill
