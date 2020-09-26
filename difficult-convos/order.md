@@ -1,3 +1,3 @@
 1. init
-- overview?!
+- intro to 3 types of difficult convos
 2. 
