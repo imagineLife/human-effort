@@ -22,6 +22,14 @@
   - "It is unprofessional to be late"
   - "This will not escalate, no matter what"
   - "This person has to talk && be clear about what they are thinking, &&/or what they want"
-  - 
+- There is nothing wrong with these rules
+  - **In conflict, thought, Identifying these rules  between myself and the other can help clear the complication**
 ### We draw conclusions about what is happening
-
+- our conclusions often reflect our self-interest
+- **example**
+  - professor howard Raiffa of Harvard business school ran an experiemnt
+    - 1 team was 'selling' company xyz
+    - 1 team was 'buying' company xyz
+    - Howard told each team to VALUE the company
+      - sellers valued 30% higher than market value
+      - buyers valued 30% lower than market value
