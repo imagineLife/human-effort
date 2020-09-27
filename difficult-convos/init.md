@@ -48,7 +48,6 @@
 	- should I deal with the facts instead of my feelings
 - **Review Emotional Intelligence**
 
-
 ## The 'Identity' Convo
 - **"What does this say about me?"**  
 - internal to ourselves
