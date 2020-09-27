@@ -54,3 +54,11 @@
 - "what does this moment really mean to me"
 	- what is the impact on the relationship
 	- my self-worth might be on the line
+
+## Move Toward a Convo about Learning
+- Appreciate these complexities
+  - perceptions
+  - intentions
+  - joint contributions
+  - the role of feelings
+- 
