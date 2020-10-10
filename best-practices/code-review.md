@@ -15,6 +15,7 @@
     - [Complexity](#complexity)
 - [A Review Method](#a-review-method)
   - [Consider the Big Picture](#consider-the-big-picture)
+  - [Consider the Big Picture](#consider-the-big-picture-1)
 
 ## The Purposes
 
@@ -98,7 +99,7 @@ Following is perhaps a step-by-step approach to code reivew:
 
 ## Consider the Big Picture
 
-Do the changes, in general, 'make sense'?
+Do the changes, in general, 'make sense'? Is the architecture sensible? Is the direction of the implementation(s) in line with the rest of the application? Does the code make way for a coming integrated feature? When a merge-request that has 'big picture' concerns, it is best to bring these up before considering further and more granualar implementation details.
 
 - Maybe for a react front-end commit...
   - Do the Components and the component architecture, and the component [composition](https://reactjs.org/docs/composition-vs-inheritance.html) fit together sensibly?
@@ -115,3 +116,5 @@ Do the changes, in general, 'make sense'?
   or
   - get back to me and we can review the architecture together with any thoughts you have?
 ```
+
+## Consider the Big Picture
