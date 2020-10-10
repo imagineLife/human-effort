@@ -26,6 +26,8 @@ Telling the developer that they did something well in their code is a great way 
 
 ### Naming
 
+- Did the de use expressive names for all things? `A good name is longenough to fully communicate what the it is or does, without being so long that it becomes hard to read`
+
 ### Comments
 
 ### Tests
