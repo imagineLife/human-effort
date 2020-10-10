@@ -5,7 +5,7 @@
 
 - [Code Review Best Practices](#code-review-best-practices)
   - [The Purposes](#the-purposes)
-  - [When Conflicts arise](#when-conflicts-arise)
+  - [When Conflicts Arise](#when-conflicts-arise)
   - [Code Review Perspectives](#code-review-perspectives)
     - [Good Things](#good-things)
     - [Functionality](#functionality)
@@ -22,7 +22,7 @@
 
 Code review assures that the health, hygene, and performance of a piece of proposed functionality to the codebase improves the code.
 
-## When Conflicts arise
+## When Conflicts Arise
 
 The Code Reviewer(s) and the code author should do their best to come to a consensus. When agreements become complicated, face-to-face meetings or video conferences can be helpful. Some tradeoffs may occur...
 
@@ -146,3 +146,8 @@ With the overall architecture and any major changes already reviewed, look throu
 
 - **front-end** details could be parsed through by component-loading order, or alphabetical order
 - **api** details could be parsed through by following an endpoint from url to each response option
+
+- Are css classes written to respect the cascading nature of the stylesheets?
+- Is logic parsing data in appropriate places throughout the code?
+- Are side-effects 'cleaned-up'?
+- are tests assuring reasonable situations, reasonable use-cases?
