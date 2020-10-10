@@ -27,7 +27,8 @@ Telling the developer that they did something well in their code is a great way 
 ### Naming
 
 - Did the de use expressive names for all things? `A good name is longenough to fully communicate what the it is or does, without being so long that it becomes hard to read`
-  - Perhaps instead of something like...
+- Use Descriptive Identifiers
+- Perhaps instead of something like...
   ```js
   const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
   const newArr = arr.filter((d) => d % 2);
