@@ -16,6 +16,7 @@
 - [A Review Method](#a-review-method)
   - [Consider the Big Picture](#consider-the-big-picture)
   - [Review the Primary Elements](#review-the-primary-elements)
+  - [Review Details](#review-details)
 
 ## The Purposes
 
@@ -138,3 +139,10 @@ When finding design or implementation problems or details that are not clear, it
   or
   - get back to me and we can review these things together with any thoughts you have
 ```
+
+## Review Details
+
+With the overall architecture and any major changes already reviewed, look through the remaining implementations of the merge request. Perhaps review the details in a sensible order:
+
+- **front-end** details could be parsed through by component-loading order, or alphabetical order
+- **api** details could be parsed through by following an endpoint from url to each response option
