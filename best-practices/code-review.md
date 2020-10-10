@@ -56,6 +56,7 @@ The code should have tests.
   - snapshot
   - props
   - conditional children logic
+  - interaction (_clicks, hovers, mouseouts, etc_)
 - Is there some javascript involved? Can the javascript be extracted into a stand-along unit of code that is testable?
   - Consider moving a function, or a switch case, to a 'helper' type file && test the function
   -
