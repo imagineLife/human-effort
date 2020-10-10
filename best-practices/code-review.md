@@ -13,8 +13,8 @@
     - [Comments](#comments)
     - [Tests](#tests)
     - [Complexity](#complexity)
-  - [A Review Method](#a-review-method)
-    - [Consider the Big Picture](#consider-the-big-picture)
+- [A Review Method](#a-review-method)
+  - [Consider the Big Picture](#consider-the-big-picture)
 
 ## The Purposes
 
@@ -88,7 +88,7 @@ The code should have tests.
 - Is the logic easy to understand?
 - Will other developers, who may not be 'as close to' the code, be able to make sense of the logic, maybe be able to re-use any logic without undue confusion?
 
-## A Review Method
+# A Review Method
 
 Following is perhaps a step-by-step approach to code reivew:
 
@@ -96,7 +96,7 @@ Following is perhaps a step-by-step approach to code reivew:
 - review 'major' code elements
 - review the details
 
-### Consider the Big Picture
+## Consider the Big Picture
 
 Do the changes, in general, 'make sense'?
 
