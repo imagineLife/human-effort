@@ -106,7 +106,8 @@ Do the changes, in general, 'make sense'? Is the architecture sensible? Is the d
   - Are the pieces in sensible places?
 - Maybe for a node/express api commit...
   - do routes, route path strings, and route handlers 'make sense', and follow existing patterns && best-practices?
-    **Being courteous** when a 'big picture' change seems like a responsible next-step. Respect the dev who put their time, energy, and mental effort into the merge request. They thought it was ready-to-go! Maybe say something like...
+
+**Being courteous** when a 'big picture' change seems like a responsible next-step. Respect the dev who put their time, energy, and mental effort into the merge request. They thought it was ready-to-go! Maybe say something like...
 
 ```text
   Hey, looks like you put in good effort here, thanks for putting the time in!
