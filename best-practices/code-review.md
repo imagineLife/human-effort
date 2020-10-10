@@ -50,6 +50,16 @@ When comments explain _what_ the code is doing, consider requesting the develope
 
 ### Tests
 
+The code should have tests.
+
+- Is a new react component involved? Does the component have tests...
+  - snapshot
+  - props
+  - conditional children logic
+- Is there some javascript involved? Can the javascript be extracted into a stand-along unit of code that is testable?
+  - Consider moving a function, or a switch case, to a 'helper' type file && test the function
+  -
+
 ### Complexity
 
 ### Design
