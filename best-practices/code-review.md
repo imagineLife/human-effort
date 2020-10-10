@@ -29,6 +29,8 @@ The Code Reviewer(s) and the code author should do their best to come to a conse
 
 ## Code Review Perspectives
 
+Following are a few 'broad' topics to consider when performing code reviews
+
 ### Good Things
 
 Telling the developer that they did something well in their code is a great way to beuild confidence in one another! Code review can be a great way to build code design concensus as the product and the team grows.
