@@ -13,6 +13,8 @@
     - [Comments](#comments)
     - [Tests](#tests)
     - [Complexity](#complexity)
+  - [A Review Method](#a-review-method)
+    - [Consider the Big Picture](#consider-the-big-picture)
 
 ## The Purposes
 
@@ -85,3 +87,31 @@ The code should have tests.
 
 - Is the logic easy to understand?
 - Will other developers, who may not be 'as close to' the code, be able to make sense of the logic, maybe be able to re-use any logic without undue confusion?
+
+## A Review Method
+
+Following is perhaps a step-by-step approach to code reivew:
+
+- consider the 'big picture'
+- review 'major' code elements
+- review the details
+
+### Consider the Big Picture
+
+Do the changes, in general, 'make sense'?
+
+- Maybe for a react front-end commit...
+  - Do the Components and the component architecture, and the component [composition](https://reactjs.org/docs/composition-vs-inheritance.html) fit together sensibly?
+  - Are the pieces in sensible places?
+- Maybe for a node/express api commit...
+  - do routes, route path strings, and route handlers 'make sense', and follow existing patterns && best-practices?
+    **Being courteous** when a 'big picture' change seems like a responsible next-step. Respect the dev who put their time, energy, and mental effort into the merge request. They thought it was ready-to-go! Maybe say something like...
+
+```text
+  Hey, looks like you put in good effort here, thanks for putting the time in!
+  I noticed you took a different approach than we used in SOME_OTHER_PIECE_OF_CODE.
+  Can you review that, compare its current implementation, and either
+  - update this merge request
+  or
+  - get back to me and we can review the architecture together with any thoughts you have?
+```
