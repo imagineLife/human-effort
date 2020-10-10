@@ -3,6 +3,21 @@
 (a reference)[https://google.github.io/eng-practices/review/reviewer/
 ]
 
+[The Purposes](#the-purposes)
+[Approaching Conflict](#when-conflicts-arise)
+[Code-Review Details](#code-review-perspectives)
+
+- [Code Review Best Practices](#code-review-best-practices)
+  - [The Purposes](#the-purposes)
+  - [When Conflicts arise](#when-conflicts-arise)
+  - [Code Review Perspectives](#code-review-perspectives)
+    - [Good Things](#good-things)
+    - [Functionality](#functionality)
+    - [Naming](#naming)
+    - [Comments](#comments)
+    - [Tests](#tests)
+    - [Complexity](#complexity)
+
 ## The Purposes
 
 Code review assures that the health, hygene, and performance of a piece of proposed functionality to the codebase improves the code.
@@ -63,4 +78,5 @@ The code should have tests.
 
 ### Complexity
 
-### Design
+- Is the logic easy to understand?
+- Will other developers, who may not be 'as close to' the code, be able to make sense of the logic, maybe be able to re-use any logic without undue confusion?
