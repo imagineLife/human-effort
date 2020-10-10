@@ -15,7 +15,7 @@
     - [Complexity](#complexity)
 - [A Review Method](#a-review-method)
   - [Consider the Big Picture](#consider-the-big-picture)
-  - [Consider the Big Picture](#consider-the-big-picture-1)
+  - [Review the Primary Elements](#review-the-primary-elements)
 
 ## The Purposes
 
@@ -99,7 +99,8 @@ Following is perhaps a step-by-step approach to code reivew:
 
 ## Consider the Big Picture
 
-Do the changes, in general, 'make sense'? Is the architecture sensible? Is the direction of the implementation(s) in line with the rest of the application? Does the code make way for a coming integrated feature? When a merge-request that has 'big picture' concerns, it is best to bring these up before considering further and more granualar implementation details.
+Do the changes, in general, 'make sense'? Is the architecture sensible? Is the direction of the implementation(s) in line with the rest of the application? Does the code make way for a coming integrated feature?  
+When a merge-request that has 'big picture' concerns, it is best to bring these up before considering further and more granualar implementation details.
 
 - Maybe for a react front-end commit...
   - Do the Components and the component architecture, and the component [composition](https://reactjs.org/docs/composition-vs-inheritance.html) fit together sensibly?
@@ -118,4 +119,7 @@ Do the changes, in general, 'make sense'? Is the architecture sensible? Is the d
   - get back to me and we can review the architecture together with any thoughts you have?
 ```
 
-## Consider the Big Picture
+## Review the Primary Elements
+
+Once the architecture and the general concepts are clear, review the larger pieces of code next. Find a file that has the most changes. Find the 'parent' container element. Find the complex state-management. Revieweing these will give context to the smaller details.  
+When finding design or implementation problems or details that are not clear, it is best to connect with the developer before moving on to smaller implemenation details.
