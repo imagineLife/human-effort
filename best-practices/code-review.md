@@ -108,7 +108,7 @@ When a merge-request that has 'big picture' concerns, it is best to bring these 
 - Maybe for a node/express api commit...
   - do routes, route path strings, and route handlers 'make sense', and follow existing patterns && best-practices?
 
-**Being courteous** when a 'big picture' change seems like a responsible next-step. Respect the dev who put their time, energy, and mental effort into the merge request. They thought it was ready-to-go! Maybe say something like...
+**Be courteous** when a 'big picture' change seems like a responsible next-step. Respect the dev who put their time, energy, and mental effort into the merge request. They thought it was ready-to-go! Maybe say something like...
 
 ```text
   Hey, looks like you put in good effort here, thanks for putting the time in!
@@ -127,3 +127,14 @@ When finding design or implementation problems or details that are not clear, it
 - Is the state management sensible? Is state being stored, managed, and altered in reasonable parts of the merge request?
 - Are agreed-upon [DRY](https://deviq.com/don-t-repeat-yourself/) [AHA](https://kentcdodds.com/blog/aha-programming/) principles being leveraged?
 - Are application components being leveraged as desired?
+
+**Be courteous** when a 'primary' concern or two seems like a responsible next-step. Respect the dev who put their time, energy, and mental effort into the merge request. At this point, the overall architecture and ''bigger picture' of the merge request should be good-to-go. Any large changes may take some time for the requester to adjust, and letting the dev know ASAP is important. They thought it was ready-to-go! Maybe say something like...
+
+```text
+  Hey, the architecture and overall goals of this request look good!
+  We are leveraging ComponentX for a very similar use-case, have you reviewed that component?
+  Can you review that, compare it to the stuff you have in this merge-request, and either
+  - adjust this merge request
+  or
+  - get back to me and we can review these things together with any thoughts you have
+```
