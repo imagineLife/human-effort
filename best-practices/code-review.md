@@ -42,6 +42,12 @@ Telling the developer that they did something well in their code is a great way 
 
 ### Comments
 
+Comments can be helpful expressing _why_ a piece of code is used in the proposal.  
+When comments explain _what_ the code is doing, consider requesting more [descriptive identifiers](#naming)
+
+- Are there comments?
+- Are all comments "necessary"? Using Descriptive Identifiers can aid in replacing comments, making `self-commenting code`
+
 ### Tests
 
 ### Complexity
