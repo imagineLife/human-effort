@@ -3,10 +3,6 @@
 (a reference)[https://google.github.io/eng-practices/review/reviewer/
 ]
 
-[The Purposes](#the-purposes)
-[Approaching Conflict](#when-conflicts-arise)
-[Code-Review Details](#code-review-perspectives)
-
 - [Code Review Best Practices](#code-review-best-practices)
   - [The Purposes](#the-purposes)
   - [When Conflicts arise](#when-conflicts-arise)
