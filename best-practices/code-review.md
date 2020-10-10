@@ -123,3 +123,7 @@ When a merge-request that has 'big picture' concerns, it is best to bring these 
 
 Once the architecture and the general concepts are clear, review the larger pieces of code next. Find a file that has the most changes. Find the 'parent' container element. Find the complex state-management. Revieweing these will give context to the smaller details.  
 When finding design or implementation problems or details that are not clear, it is best to connect with the developer before moving on to smaller implemenation details.
+
+- Is the state management sensible? Is state being stored, managed, and altered in reasonable parts of the merge request?
+- Are agreed-upon [DRY](https://deviq.com/don-t-repeat-yourself/) [AHA](https://kentcdodds.com/blog/aha-programming/) principles being leveraged?
+- Are application components being leveraged as desired?
