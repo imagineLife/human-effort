@@ -44,6 +44,7 @@ Once the user workflows are clear & agreed upon, wireframes can make clear the U
 - buttons && interactions
 - execution of user-choice options & results
 - text explaining element options, routing concerns, edge-cases
+- **In a heavily data-driven application,** annotations can allude to data-driven elements that will vary by data
 
 ### Artifacts && Success
 
@@ -53,4 +54,4 @@ Once the user workflows are clear & agreed upon, wireframes can make clear the U
 
 ## Craft Higher Fidelity Implementation Expectations
 
-Once wireframes are collected, and the use-cases of users is clear, fully-integrated designs are ready for design efforts. Design-system elements can replace wireframe ideas. Detailed styles can be introduced,
+Once wireframes are collected, and the use-cases of users is clear, fully-integrated designs are ready for design efforts. Design-system elements replace wireframed concepts. Detailed styles are introduced to the designs. - **In a heavily data-driven application,** varying element states are clear and annotated.
