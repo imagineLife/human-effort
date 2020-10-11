@@ -7,7 +7,7 @@
     - [Artifacts && Success](#artifacts--success-1)
   - [Design Wireframes](#design-wireframes)
     - [Artifacts && Success](#artifacts--success-2)
-  - [Craft Higher Fidelity Implementation Expectations](#craft-higher-fidelity-implementation-expectations)
+  - [Craft Detailed Designs](#craft-detailed-designs)
 
 ## Gather User Insights
 
@@ -52,6 +52,6 @@ Once the user workflows are clear & agreed upon, wireframes can make clear the U
 - annotations are present where appropriate, highlighting user choices, navigational efforts, and elements
 - choices about the application are made and agreed upon: navigation, layouts, user-flow expectations, etc.
 
-## Craft Higher Fidelity Implementation Expectations
+## Craft Detailed Designs
 
 Once wireframes are collected, and the use-cases of users is clear, fully-integrated designs are ready for design efforts. Design-system elements replace wireframed concepts. Detailed styles are introduced to the designs. - **In a heavily data-driven application,** varying element states are clear and annotated.
