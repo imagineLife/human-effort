@@ -6,7 +6,7 @@
   - [Shape the User Workflow](#shape-the-user-workflow)
     - [Artifacts && Success](#artifacts--success-1)
   - [Design Wireframes](#design-wireframes)
-    - [Artifacts](#artifacts)
+    - [Artifacts && Success](#artifacts--success-2)
 
 ## Gather User Insights
 
@@ -44,7 +44,7 @@ Once the user workflows are clear & agreed upon, wireframes can make clear the U
 - execution of user-choice options & results
 - text explaining element options, routing concerns, edge-cases
 
-### Artifacts
+### Artifacts && Success
 
-- wireframe diagrams, highlighting UI details particular to the user journeys particualr to the user story(s)
-- accompanying text, expressing details of the wireframes
+- wireframe diagrams are developed, highlighting UI details particular to the user stories
+- annotations are present where appropriate, highlighting user choices, navigational efforts, and elements
