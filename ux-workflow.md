@@ -2,11 +2,11 @@
 
 - [A UX Workflow](#a-ux-workflow)
   - [Gather User Insights](#gather-user-insights)
-    - [Artifacts](#artifacts)
+    - [Artifacts && Success](#artifacts--success)
   - [Shape the User Workflow](#shape-the-user-workflow)
-    - [Artifacts](#artifacts-1)
+    - [Artifacts && Success](#artifacts--success-1)
   - [Design Wireframes](#design-wireframes)
-    - [Artifacts](#artifacts-2)
+    - [Artifacts](#artifacts)
 
 ## Gather User Insights
 
@@ -17,10 +17,10 @@ Collect && centralize user-specific details. Technical details, dev tooling, tim
 - Refine User Stories with a team Product Owner
 - **In a heavily data-driven application,** collect some data that is relevant to UI/UX being developed
 
-### Artifacts
+### Artifacts && Success
 
-- User Stories
-- Data the UI will show
+- Clear User Stories are understood by the UX-UI folks. The user stories can be related to existing functionality as a way of assuring the user storeis integrate into the application
+- Relevant example data are collected. More detailed designs leverage 1 or more pieces of example data for 'real' implementation examples of the detailed execution.
 
 ## Shape the User Workflow
 
@@ -30,10 +30,10 @@ Once expected user-stories are collected, a general workflow can be built. 'Stag
 - In 'broad strokes', show user-friendly language along side thumbnail diagrams, explaining the goals, expectations, and intentions of each UI element, of each 'stage' along expected user journeys
 -
 
-### Artifacts
+### Artifacts && Success
 
-- Thumbnail sketches
-- User-Friendly explanatory text for each 'big picture' page, component, section, and user moment
+- Thumbnail sketches are gathered, presented, and approved by stakeholders && relevant scrum team members
+- User-Friendly explanatory text is present and understoon for each 'big picture' UI detail - pages, components, sections, etc
 
 ## Design Wireframes
 
