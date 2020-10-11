@@ -7,7 +7,8 @@
     - [Artifacts && Success](#artifacts--success-1)
   - [Design Wireframes](#design-wireframes)
     - [Artifacts && Success](#artifacts--success-2)
-  - [Craft Detailed Designs](#craft-detailed-designs)
+  - [Craft Static Designs](#craft-static-designs)
+    - [Artifacts && Success](#artifacts--success-3)
 
 ## Gather User Insights
 
@@ -52,6 +53,12 @@ Once the user workflows are clear & agreed upon, wireframes can make clear the U
 - annotations are present where appropriate, highlighting user choices, navigational efforts, and elements
 - choices about the application are made and agreed upon: navigation, layouts, user-flow expectations, etc.
 
-## Craft Detailed Designs
+## Craft Static Designs
 
-Once wireframes are collected, and the use-cases of users is clear, fully-integrated designs are ready for design efforts. Design-system elements replace wireframed concepts. Detailed styles are introduced to the designs. - **In a heavily data-driven application,** varying element states are clear and annotated.
+Once wireframes are collected, and the use-cases of users is clear, static designs are ready for design efforts. Design-system elements replace wireframed concepts. Detailed styles are introduced to the designs. - **In a heavily data-driven application,** varying element states are clear and annotated. These can include loading states, empty states, few elements, many elements, data-driven element sizes...
+
+### Artifacts && Success
+
+- App-Like Designs are complete
+- Annotations are present, represeting user choices throughout the user stories
+- **In a heavily data-driven application,** special annotations and variable element states are clear, accomodating all data-driven varieties of displayed elements
