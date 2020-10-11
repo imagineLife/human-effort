@@ -35,3 +35,9 @@ Once expected user-stories are collected, a general workflow can be built. 'Stag
 - User-Friendly explanatory text for each 'big picture' page, component, section, and user moment
 
 ## Design Wireframes
+
+Once the user workflows are clear & agreed upon, wireframes can make clear the UI elements that allow a user journey to occur -
+
+- navigation style(s)
+- buttons && interactions
+- execution of user-choice options & results
