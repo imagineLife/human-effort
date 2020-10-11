@@ -6,6 +6,7 @@
   - [Shape the User Workflow](#shape-the-user-workflow)
     - [Artifacts](#artifacts-1)
   - [Design Wireframes](#design-wireframes)
+    - [Artifacts](#artifacts-2)
 
 ## Gather User Insights
 
@@ -36,8 +37,14 @@ Once expected user-stories are collected, a general workflow can be built. 'Stag
 
 ## Design Wireframes
 
-Once the user workflows are clear & agreed upon, wireframes can make clear the UI elements that allow a user journey to occur -
+Once the user workflows are clear & agreed upon, wireframes can make clear the UI elements that allow a user journey to occur. Explanatory text can be helpful explaining UI element details. Inlcuded in wireframes can be -
 
 - navigation style(s)
 - buttons && interactions
 - execution of user-choice options & results
+- text explaining element options, routing concerns, edge-cases
+
+### Artifacts
+
+- wireframe diagrams, highlighting UI details particular to the user journeys particualr to the user story(s)
+- accompanying text, expressing details of the wireframes
