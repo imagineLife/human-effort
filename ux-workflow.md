@@ -9,6 +9,8 @@
     - [Artifacts && Success](#artifacts--success-2)
   - [Craft Static Designs](#craft-static-designs)
     - [Artifacts && Success](#artifacts--success-3)
+  - [Animations](#animations)
+  - [Pass It On](#pass-it-on)
 
 ## Gather User Insights
 
@@ -62,3 +64,11 @@ Once wireframes are collected, and the use-cases of users is clear, static desig
 - App-Like Designs are complete
 - Annotations are present, represeting user choices throughout the user stories
 - **In a heavily data-driven application,** special annotations and variable element states are clear, accomodating all data-driven varieties of displayed elements
+
+## Animations
+
+Include animations in a prototype-like design.
+
+## Pass It On
+
+With designs accommodationg user stories, assure developers receive and understand the designs.
