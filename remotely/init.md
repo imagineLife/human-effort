@@ -33,6 +33,8 @@
 - Org Values for a dist team
 - Develop + UpHold Values
 
+### Making the plan
+
 ### Folks at GitLab
 
 Darren Murph, Head of Remote at GitLab.
@@ -42,3 +44,7 @@ David Sakamoto,
 the Vice President of Customer Success.
 Aricka Flowers, Manager of the Digital Production Team.
 Josh Zimmerman, Learning and Development Partner
+
+### Some Resources
+
+https://www.coursera.org/learn/remote-team-management/discussions
