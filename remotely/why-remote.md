@@ -21,3 +21,7 @@
 - Hitachi
 - Strip
 - Shopify
+
+## Prestige
+
+- Harvard Business School teaches GitLab remote strategies to students
