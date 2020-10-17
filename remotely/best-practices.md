@@ -1,5 +1,11 @@
 # Being Ready For Remote
 
+Requires...
+
+- trust
+- communication
+- clear shared-goals
+
 ## Create a Transition Plan
 
 Consider...
