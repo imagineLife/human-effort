@@ -17,6 +17,8 @@ The persons clarity in responses. They may be indirect. They may be very direct.
 |------|---------|------|---------|  
 |_ |_ |_ |_ |
 Notes:
+<br>  
+<br>
 <br>
 
 ### Talkative-ness
@@ -26,6 +28,8 @@ The persons amount-of-words
 |------|---------|------|---------|---------|  
 |_ |_ |_ |_ |\_ |
 Notes:
+<br>  
+<br>
 <br>
 
 ## Strength Domains
@@ -37,6 +41,8 @@ They seem to enjoy &/or prefer thinking strategically.
 |------|---------|------|---------|---------|---------|
 |_ |_ |_ |_ |_ |_ |
 Notes:
+<br>  
+<br>
 <br>
 
 ### Executioner
@@ -46,6 +52,8 @@ They seem to enjoy &/or prefer getting tasks done
 |------|---------|------|---------|---------|---------|
 |_ |_ |_ |_ |_ |_ |
 Notes:
+<br>  
+<br>
 <br>
 
 ### Relationship Builder
@@ -55,6 +63,8 @@ They seem to enjoy &/or prefer building strong relationships.
 |------|---------|------|---------|---------|---------|
 |_ |_ |_ |_ |_ |_ |
 Notes:
+<br>  
+<br>
 <br>
 
 ### Influencer
@@ -64,6 +74,8 @@ They seem to enjoy &/or prefer taking charge, speaking up.
 |------|---------|------|---------|---------|---------|
 |_ |_ |_ |_ |_ |_ |
 Notes:
+<br>  
+<br>
 <br>
 
 ## Workability
@@ -75,6 +87,8 @@ They seem to be able to work without micro-management on a daily basis
 ---------|------|---------|---------|---------|
 |_ |_ |_ |_ |\_ |
 Notes:
+<br>  
+<br>
 <br>
 
 ### Collaborative
@@ -84,4 +98,6 @@ They seem comfortable collaborating when appropriate, asking for help & consider
 ---------|------|---------|---------|---------|
 |_ |_ |_ |_ |\_ |
 Notes:
+<br>  
+<br>
 <br>
