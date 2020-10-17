@@ -16,3 +16,10 @@ Consider...
 - experts in remote work
 - make clear any remote difficulties: collaboration, communication, onboarding, naming expectations
 - **Start at the top**, consider having the executive team work remotely
+
+## Develop the remote-empowering infrastructure
+
+- tooling
+- I.D any **gaps** that may need addressing when moving from in-house to remote
+- I.D Communication breakdowns that might happen
+- any new tools needed?
