@@ -23,3 +23,13 @@ Consider...
 - I.D any **gaps** that may need addressing when moving from in-house to remote
 - I.D Communication breakdowns that might happen
 - any new tools needed?
+
+## Develop a Handbook
+
+- introduce transparent expectations across the org
+- **maybe particular to working remote**
+- perhaps **start** as a single page
+- allow member-updatability, collaborative editing
+- leverage version-tracking
+- keep it up-to-date
+- take docs seriously
