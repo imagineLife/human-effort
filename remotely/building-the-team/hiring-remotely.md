@@ -45,3 +45,9 @@
 - Tell me about a time you...
   - recognized an opportunity for process improvement
   - **how you brought that up to leadership**
+- Have you ever worked independently **without direct supervision on a daily basis**
+- **MEETING GOALS** - What strategies, tools, routiens or workflows do you use to ensure your daily goals are met
+- **STRUGGLES** - What are some struggles you've had or think you might have working remotely?
+  - how do you intend on combatting these struggles?
+- **BE EXCITED about remote** What excited you most about working remotely over a traditional office environment?
+- **Considering Time-Zones** - What would you do if you have a piece of work that requires help from someone in a different time-zone, and they are not immediately available?
