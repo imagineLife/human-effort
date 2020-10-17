@@ -33,3 +33,19 @@ Consider...
 - leverage version-tracking
 - keep it up-to-date
 - take docs seriously
+
+## Establish a Communication Plan
+
+- talk to HR
+- be transparent, don't hold back - leaders should prioritize communication
+- communicate consistency
+  - people will respond differently to a change
+  - Cosider this for ideas: https://about.gitlab.com/handbook/communication/
+
+## Encourage Informal Communication
+
+## Drive Change
+
+- change can be difficult
+- prepare for a gradual process
+- celebrate successful small changes
