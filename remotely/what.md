@@ -40,3 +40,5 @@
 
 https://learn.gitlab.com/coursera-remote-work/remote-work-glossary
 https://learn.gitlab.com/coursera-remote-work/vision
+
+https://www.coursera.org/learn/remote-team-management/lecture/dxueD/organizational-remote-readiness
