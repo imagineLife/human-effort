@@ -51,3 +51,8 @@
   - how do you intend on combatting these struggles?
 - **BE EXCITED about remote** What excited you most about working remotely over a traditional office environment?
 - **Considering Time-Zones** - What would you do if you have a piece of work that requires help from someone in a different time-zone, and they are not immediately available?
+
+## Focus on the candidate
+
+- excuse network quality
+- excuse background sound
