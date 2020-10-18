@@ -109,3 +109,9 @@ to dedicate a few hours a week to having social calls
 - Handbook && Conduct
 - Performance Expectations
 - Career Development Hopes
+
+## Collect Feedback after onboarding
+
+- ID dis-satisfactions
+- survey onboarding buddies
+- allow anonymous feedback about a new hire
