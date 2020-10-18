@@ -76,6 +76,7 @@ to dedicate a few hours a week to having social calls
 - GitLab can hos AMA channels
 - **DONUT** GitLab bot
 - Encourage informal interactions during work time
+
 - **Cultural Onboarding**
 
   - Communicate values + culture
@@ -84,7 +85,12 @@ to dedicate a few hours a week to having social calls
     - "We collaborate with curiosity, hoping that a different set of eyes can help clarify, simplify, and help with issues."
 
 - **Assign an OnBoarding Buddy**
-  - up to
+
+  - up to 97% of new hires with a buddy found it to be helpful (_microsoft_)
+  - Answer questions
+  - Offer support
+  - Provide Context
+
 - Different processes may be present per...
 
   - role
