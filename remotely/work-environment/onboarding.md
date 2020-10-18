@@ -25,7 +25,7 @@
 - organizational culture
 - team dynamics
 
-## A Flow
+## An Onboarding Process
 
 - Technical Setup
   - prepare
@@ -33,14 +33,24 @@
   - **standardize this**
   - assure security, MFA
   - ... day 1 can be dry
-- Crete an on-boarding **Issue**
+- **Crete an on-boarding Issue**
   - a checklist of required tasks
 - **Require Self-Directed Actions during OnBoarding**
+
   - ...I imagine...
+
     - Fill out something showing they've learned about the company, their role, and the content they'll be working with
       - What are the products the company is working on
       - Who else works on the team you'll be working with
       - What does (_a handful of people_) do (_what is their title_)
+
+  - **Make "Discovery" Issues**
+    - Product(s) discovery
+      - goals for someone to learn about the Products
+    - GitLab discovery
+      - goals for someone to learn about the ways we leverage GitLab
+    -
+
 - **Social Onboarding**
 
   - Welcome call
@@ -53,6 +63,8 @@
   - **DONUT** GitLab bot
   - Encourage informal interactions during work time
 
+- **Assign an OnBoarding Buddy**
+  - up to
 - Different processes may be present per...
   - role
   - location
