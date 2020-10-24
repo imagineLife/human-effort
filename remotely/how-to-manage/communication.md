@@ -13,6 +13,10 @@ Good async allows...
 - raising morale
 - raising productivity
 
+
+## GitLab Async Communication Policy
+"... after two async check-ins on a topic or task, call a meeting to discuss it further. When the issue is clearly understood, the process can continue asynchronously"
+
 ### Iteration
 https://learn.gitlab.com/coursera-remote-work/values-1
 - Foster "Progress over perfection"
@@ -36,6 +40,18 @@ If you're doing iteration correctly, it should be.
   - tag someone on item 1 when blocked
   - begin item 2
 - 
+
+### Documentation and Transparency
+https://learn.gitlab.com/coursera-remote-work/handbook-first-doc
+- make a single source of truth for docs
+- "GitLab’s handbook is our single source of truth for all processes and stable information."
+- Adopt a Documentation-First approach
+- In an early-stage company...
+  - Its tempting to avoid a documenting strategy
+  - Meetings work for sharing information
+  - 
+
+
 
 ## Cross-Cultural
 - can cause complication
