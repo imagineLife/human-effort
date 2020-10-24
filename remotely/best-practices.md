@@ -31,7 +31,7 @@ Consider...
 - any new tools needed?
 
 ## Develop a Handbook
-
+https://learn.gitlab.com/coursera-remote-work/handbook-first-doc
 - introduce transparent expectations across the org
 - **maybe particular to working remote**
 - perhaps **start** as a single page
