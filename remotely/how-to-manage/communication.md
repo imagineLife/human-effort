@@ -24,6 +24,17 @@ Good async allows...
 ### Keep Messenger Text && Docs Separate
 "We also set our Slack messages to automatically expire after 90 days, ensuring that any work discussions that people need to preserve will be moved to the single source of truth"
 
+### Leverage Sync for what it is best at
+"...encourage the use of synchronous communication for what it’s best at: informal, social connection." 
+- No experience can replace a casual conversation
+- without the ability to connect on a personal level, your team can become lonely or burned out
+- Use Slack and video calls for...
+  - coffee chats, 
+  - sharing wins, 
+  - giving praise and thanks
+  - connecting over personal interests
+-  these tools can add to your team experience rather than impeding it
+
 ### Iteration
 https://learn.gitlab.com/coursera-remote-work/values-1
 - Foster "Progress over perfection"
