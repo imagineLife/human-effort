@@ -1,6 +1,7 @@
 # Personal Dev && Leadership
 
 ## Communication
+
 - don't evaluate people on sync communication
 - Responses might not be immediate
 - Cross-Cultural communication is complex
@@ -21,6 +22,7 @@
 - Document Career Pathways
 
 ## Feedback Cycles
+
 - Create env where folks feel _EMPOWERED_
 - Evaluations
   - performance analysis
@@ -35,8 +37,8 @@
 - Document feedback process
   - how feedback affects career trajectory
 
-
 ## Tactis
+
 - HAVE A BIAS toward results + action
   - https://learn.gitlab.com/coursera-remote-work/self-service-1
   - promote folks who take self-direction
@@ -45,9 +47,27 @@
     - https://about.gitlab.com/handbook/people-group/general-onboarding/
     - A TEMPLATE: https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md
     - DEVS: https://about.gitlab.com/handbook/developer-onboarding/
-    - 
+    -
 - ENCOURAGE CONTINUOUS LEARNING
   - its easy
   - give support for folks doing this "on work time"
+  - Learning Principles to Consider
+    - Relevant
+      - drive dev & growth of members while in the company
+    - Aligned Values
+      - reinforce Medacist values
+    - Give Many Approaches
+  - Develop Emotional Intelligence
+    - https://learn.gitlab.com/coursera-remote-work/learning-and-develop
+  - Emphasize in remote learning
+    - Personalities
+      - leverage assessment(s)
+    - Self-Learning
+      - enable folks to learn on-demand through an infrastructure
+    - Guided Paths
+      - make them
+
+Community. We make our L&D offerings available to the public, aligned to our mission that everyone can contribute.
+
 - Clarify promotion paths
-  - 
+  -
