@@ -32,3 +32,8 @@
 - make EVERYONE "remote"
 - even in the same room, make people use their equipment
 - DEFAULT to a "FULLY-REMOTE" feel
+
+
+## Minimize the Tool Stack
+- get max value out of existing tools
+- 
