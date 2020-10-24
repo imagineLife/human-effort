@@ -4,6 +4,13 @@
 - similar to a 'project'
 - may take MONTHS to Complete
 
+## Standups
+" Many of GitLab’s projects use an asynchronous, written check-in for standups, posted in a shared channel, instead of a synchronous meeting."
+- Consider a written check-in
+- Consider a shared channel
+
+
+
 ### Issues
 - single piece of work within an epic
 - might take a week-or-two to complete
