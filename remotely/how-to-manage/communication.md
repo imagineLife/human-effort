@@ -25,6 +25,7 @@ Good async allows...
 "We also set our Slack messages to automatically expire after 90 days, ensuring that any work discussions that people need to preserve will be moved to the single source of truth"
 
 ### Leverage Sync for what it is best at
+https://learn.gitlab.com/coursera-remote-work/informal-communicati
 "...encourage the use of synchronous communication for what it’s best at: informal, social connection." 
 - No experience can replace a casual conversation
 - without the ability to connect on a personal level, your team can become lonely or burned out
@@ -34,6 +35,22 @@ Good async allows...
   - giving praise and thanks
   - connecting over personal interests
 -  these tools can add to your team experience rather than impeding it
+
+
+### Async Challenges
+- Providing Context
+  - https://learn.gitlab.com/coursera-remote-work/effective-communicat-1
+  - when INSTRUCTIONS are complete, several communication cycles are needed to clarify reqs
+- Lack of in-person connection
+  - async communication is mostly written
+  - can lead to mis-understandings && hurt feelings
+  - ENCOURAGE PEOPLE to...
+    - assume the best
+    - use informal chats
+
+#### Leverage Low-Context Communication
+- provide full information and additional references or resources, so that the recipient of your message can effectively act on it
+- This should be part of manager and employee training
 
 ### Iteration
 https://learn.gitlab.com/coursera-remote-work/values-1
