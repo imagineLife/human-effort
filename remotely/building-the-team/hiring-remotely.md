@@ -12,6 +12,7 @@
   - discuss values with the candidate
   - INSTEAD of looking for a good 'personality match', look for folks who **resonate with team values**
 - new folks **shouldn't be fitting in**: they **should be adding to the culture**
+- give preference to people with strong communication skills
 
 ## Should the Candidate have remote experience
 
