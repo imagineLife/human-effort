@@ -74,3 +74,24 @@ Why?
 - Higher employee satisfaction
 - global talent pool
 - Cost-savings for hiring folks in low-income places
+
+## All Remote
+
+Why?
+
+- all org work can be done remote
+- leadership is sold out for it
+- recruiting is world-wide
+- business can operate anytime
+
+### Challenges
+
+- communication
+- culture-development
+- lonely devs
+- async communication can slow down performance
+
+### Benefits
+
+- higher employee satisfaction
+- ...and many more details!
