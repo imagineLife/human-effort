@@ -14,8 +14,15 @@ Good async allows...
 - raising productivity
 
 
-## GitLab Async Communication Policy
+## GitLab Async Communication Policies
+### Make a meeting after missed check-ins  
 "... after two async check-ins on a topic or task, call a meeting to discuss it further. When the issue is clearly understood, the process can continue asynchronously"
+
+### Require Meetings to have written agendas
+"...GitLab requires every meeting to have a written agenda, and we allow people to RSVP “no” or stop participating if the meeting isn’t relevant or valuable to their work"
+
+### Keep Messenger Text && Docs Separate
+"We also set our Slack messages to automatically expire after 90 days, ensuring that any work discussions that people need to preserve will be moved to the single source of truth"
 
 ### Iteration
 https://learn.gitlab.com/coursera-remote-work/values-1
