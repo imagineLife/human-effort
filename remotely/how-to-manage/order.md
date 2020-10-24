@@ -1,0 +1,3 @@
+communication
+meetings
+result-oriented
