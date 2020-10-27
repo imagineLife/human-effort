@@ -42,3 +42,8 @@
 - higher performance
 - individual agency increases
 - momentum can be building
+
+## 3 - Async
+
+- most work is indepentent, or on individual schedules
+- 1-on-1 is higher priority than team meetings
