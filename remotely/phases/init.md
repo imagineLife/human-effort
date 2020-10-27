@@ -47,3 +47,44 @@
 
 - most work is indepentent, or on individual schedules
 - 1-on-1 is higher priority than team meetings
+- Global hiring increases
+- Flexible schedules become the norm
+- Docs evolve
+- Teams enforce use of systems + tools
+
+### Challenges
+
+- slower communication + work-cycles
+- can be challenging for folks to change
+- people-team needs to expand
+- creating authentic culture + facilitate chill communication
+
+### Benefits
+
+- employee moral
+- efficiency increases
+- welcome highliy talented folks
+
+## 4 - Intentionality
+
+- All facets are designed for remote work
+- Docs are in place
+- employees are equiped with tools
+- security practices are in place
+- single project-management system
+- single doc-management system
+- strong value statements
+- Divest from real-estate
+
+### Challenges
+
+- leadership MUST have complete buy-in
+- time & focus to develop new systems
+- common to see employee turnover of those who prefer to office
+
+### Benefits
+
+- high level of order + efficiency
+- high employee satisfaction (90% +)
+- lower operating costs: no real-estte
+- Significant reruiting && retention
