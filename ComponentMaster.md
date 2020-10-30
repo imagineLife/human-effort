@@ -19,6 +19,9 @@
   - [Reusability in action](#reusability-in-action)
   - [Persistence Ignorant Components](#persistence-ignorant-components)
 - [A Shorthand React Checklist](#a-shorthand-react-checklist)
+  - [Components are explained](#components-are-explained)
+  - [State is located appropriately](#state-is-located-appropriately)
+  - [Components are Tested](#components-are-tested)
 
 **Extra Credit**
 
@@ -264,20 +267,34 @@ Consider making **as much 'state' logic as possible** outside the scope of a com
 
 When building & reviewing a react frontend, here's a short-hand set of items to assure:
 
-- [ ] **State is de-coupled appropriately**, leveraging agreed-upon state-management tooling, like [React's own Context](https://reactjs.org/docs/context.html)
-- [ ] Component Props are tested
-  - [ ] State-Informing props are tested with various states:
-    - [ ] When no state data is passed
-    - [ ] When little state data is passed
-    - [ ] when 'lots' of state data is passed
-  - [ ] Style-Informing props are tested with expected options
-    - [ ] props that inform classnames
-    - [ ] props that inform styles
-  - [ ] Conditional-element controlling props are tested
-    - [ ] Children &/or elements show when expected
-    - [ ] Children &/or elements are not show when expected to not be shown
-    - [ ] 'disabline' states are tested
-    - [ ] conditional element positioning is tested
-  - [ ] Interaction-Handling Callbacks are tested
-    - [ ] onClick's are called when expected
-    - [ ] mouse events are triggered/handled
+### Components are explained
+
+- [ ] A comment block at the top of a component page explains details about the component
+  - [ ] its use-cases
+  - [ ] overview of props && their impact on the component (_perhaps in combination with [a 'type' system](https://flow.org/)_)
+
+### State is located appropriately
+
+- [ ] State is stored at relevant component 'level' in the rendering tree
+  - [ ] available by all components that use the state
+  - [ ] not too 'high' that state-changes cause re-renders of irrelevant componnents
+  - [ ] not too 'low' that similar states are duplicated across components
+  - [ ] **de-coupled appropriately**, leveraging agreed-upon state-management tooling, like [React's own Context](https://reactjs.org/docs/context.html)
+
+### Components are Tested
+
+- [ ] State-Informing props are tested with various states:
+  - [ ] When no state data is passed
+  - [ ] When little state data is passed
+  - [ ] when 'lots' of state data is passed
+- [ ] Style-Informing props are tested with expected options
+  - [ ] props that inform classnames
+  - [ ] props that inform styles
+- [ ] Conditional-element controlling props are tested
+  - [ ] Children &/or elements show when expected
+  - [ ] Children &/or elements are not show when expected to not be shown
+  - [ ] 'disabline' states are tested
+  - [ ] conditional element positioning is tested
+- [ ] Interaction-Handling Callbacks are tested
+  - [ ] onClick's are called when expected
+  - [ ] mouse events are triggered/handled
