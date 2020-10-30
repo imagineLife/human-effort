@@ -1,6 +1,9 @@
 # A Small-Org Ladder
 
-Here, a React+Node-focused engineering ladder -
+Here, a React+Node-focused engineering ladder.  
+Tech-specific ladder details do not seem popular, as the tech is changing perhaps more-frequently than a persons' tenure in a given position.  
+Tech-specifics can help put skin on how 'principles' apply to the details of an engineers day.
+Here's an attempt -
 
 | Category     | Junior Engineer                                                                                                                                                                                               | Engineer | Senior Engineer |
 | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- | :-------------- |
