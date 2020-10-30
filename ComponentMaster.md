@@ -20,7 +20,9 @@
   - [Persistence Ignorant Components](#persistence-ignorant-components)
 - [A Shorthand React Checklist](#a-shorthand-react-checklist)
   - [Components are explained](#components-are-explained)
-  - [State is located appropriately](#state-is-located-appropriately)
+  - [State is handled & scoped appropriately](#state-is-handled--scoped-appropriately)
+    - [Scoped](#scoped)
+    - [Owned By React](#owned-by-react)
   - [Components are Tested](#components-are-tested)
 
 **Extra Credit**
@@ -273,13 +275,23 @@ When building & reviewing a react frontend, here's a short-hand set of items to 
   - [ ] its use-cases
   - [ ] overview of props && their impact on the component (_perhaps in combination with [a 'type' system](https://flow.org/)_)
 
-### State is located appropriately
+### State is handled & scoped appropriately
+
+#### Scoped
 
 - [ ] State is stored at relevant component 'level' in the rendering tree
   - [ ] available by all components that use the state
   - [ ] not too 'high' that state-changes cause re-renders of irrelevant componnents
   - [ ] not too 'low' that similar states are duplicated across components
   - [ ] **de-coupled appropriately**, leveraging agreed-upon state-management tooling, like [React's own Context](https://reactjs.org/docs/context.html)
+
+#### Owned By React
+
+- [ ] State is given to React for rendering control
+  - [ ] dom manipulation handled by [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
+  - [ ] side-effects are handled by [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
+  - [ ] changable state that affects rendering is handled by [useState](https://reactjs.org/docs/hooks-reference.html#usestate) or through a prop
+  - [ ]
 
 ### Components are Tested
 
