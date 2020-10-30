@@ -18,12 +18,13 @@
     - [Data Driven Components](#data-driven-components)
   - [Reusability in action](#reusability-in-action)
   - [Persistence Ignorant Components](#persistence-ignorant-components)
-- [A Shorthand React Checklist](#a-shorthand-react-checklist)
+- [A React + Frontend Checklist](#a-react--frontend-checklist)
   - [Components are explained](#components-are-explained)
   - [State is handled & scoped appropriately](#state-is-handled--scoped-appropriately)
     - [Scoped](#scoped)
     - [Owned By React](#owned-by-react)
   - [Components are Tested](#components-are-tested)
+  - [JavaScript is extracted](#javascript-is-extracted)
 
 **Extra Credit**
 
@@ -265,9 +266,9 @@ Consider making **as much 'state' logic as possible** outside the scope of a com
 - need to **trigger a new fetch**? call a fn that's been passed through a prop, or a fn that is imported through using a context
 - need to **respond to new data**? ... react can do this well already!
 
-## A Shorthand React Checklist
+## A React + Frontend Checklist
 
-When building & reviewing a react frontend, here's a short-hand set of items to assure:
+When building & reviewing a frontend app using React, here's a set of items to assure:
 
 ### Components are explained
 
@@ -310,3 +311,8 @@ When building & reviewing a react frontend, here's a short-hand set of items to 
 - [ ] Interaction-Handling Callbacks are tested
   - [ ] onClick's are called when expected
   - [ ] mouse events are triggered/handled
+
+### JavaScript is extracted
+
+- [ ] Javascript logic is extracted when possible
+  - [ ] a function that consumes props or state and outputs ui-consumable content can be extracted && tested as a stand-alone function
