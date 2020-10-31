@@ -14,25 +14,25 @@ When building & reviewing a frontend app using React, here's a set of items to a
 ## Components are explained
 
 - [ ] A comment block at the top of a component page explains details about the component
-  - [ ] its use-cases
-  - [ ] overview of props && their impact on the component (\_perhaps in combination with [a 'type' system](https://flow.org/)
+  - [ ] the component's use-cases
+  - [ ] an overview of the component props, && their impact on the component (_perhaps in combination with [a 'type' system](https://flow.org/)_)
 
 ## State is handled & scoped appropriately
 
 ### State is Scoped
 
-- [ ] State is stored at relevant component 'level' in the rendering tree
+- [ ] State is stored at relevant component 'level's in the rendering tree
   - [ ] available by all components that use the state
-  - [ ] not too 'high' that state-changes cause re-renders of irrelevant componnents
-  - [ ] not too 'low' that similar states are duplicated across components
+  - [ ] not so 'high' that state-changes cause re-renders of irrelevant componnents
+  - [ ] not so 'low' that similar states are duplicated across components, or that state-management has become cumbersome
   - [ ] **de-coupled appropriately**, leveraging agreed-upon state-management tooling, like [React's own Context](https://reactjs.org/docs/context.html)
 
 ### State is Owned By React
 
 - [ ] State is given to React for rendering control
-  - [ ] dom manipulation handled by [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
-  - [ ] side-effects are handled by [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
-  - [ ] changable state that affects rendering is handled by [useState](https://reactjs.org/docs/hooks-reference.html#usestate) or through a prop
+  - [ ] dom access manipulation is handled by [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
+  - [ ] side-effects are handled by [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect) or useLayoutEffect
+  - [ ] changable state that affects rendering is handled by [useState](https://reactjs.org/docs/hooks-reference.html#usestate), or through a passed prop rather than 'internal' state
   - [ ]
 
 ## Components are Tested
