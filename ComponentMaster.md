@@ -1,7 +1,15 @@
 ## A React Aficionado
 
 - [A React Aficionado](#a-react-aficionado)
-  - [Build Components in order](#build-components-in-order)
+- [A React + Frontend Checklist](#a-react--frontend-checklist)
+  - [Components are explained](#components-are-explained)
+  - [State is handled & scoped appropriately](#state-is-handled--scoped-appropriately)
+    - [State is Scoped](#state-is-scoped)
+    - [State is Owned By React](#state-is-owned-by-react)
+  - [Components are Tested](#components-are-tested)
+  - [JavaScript is extracted](#javascript-is-extracted)
+  - [Styles are scoped](#styles-are-scoped)
+- [Build Components in order](#build-components-in-order)
     - [Start With Props](#start-with-props)
     - [Build With Defaults](#build-with-defaults)
     - [Test Often](#test-often)
@@ -18,13 +26,6 @@
     - [Data Driven Components](#data-driven-components)
   - [Reusability in action](#reusability-in-action)
   - [Persistence Ignorant Components](#persistence-ignorant-components)
-- [A React + Frontend Checklist](#a-react--frontend-checklist)
-  - [Components are explained](#components-are-explained)
-  - [State is handled & scoped appropriately](#state-is-handled--scoped-appropriately)
-    - [Scoped](#scoped)
-    - [Owned By React](#owned-by-react)
-  - [Components are Tested](#components-are-tested)
-  - [JavaScript is extracted](#javascript-is-extracted)
 
 **Extra Credit**
 
@@ -35,9 +36,64 @@
   - [Master React](#master-react)
 - A note on [Data-Driven Applications](#heavily-data-driven-applications)
 
+## A React + Frontend Checklist
+
+When building & reviewing a frontend app using React, here's a set of items to assure:
+
+### Components are explained
+
+- [ ] A comment block at the top of a component page explains details about the component
+  - [ ] its use-cases
+  - [ ] overview of props && their impact on the component (_perhaps in combination with [a 'type' system](https://flow.org/)_)
+
+### State is handled & scoped appropriately
+
+#### State is Scoped
+
+- [ ] State is stored at relevant component 'level' in the rendering tree
+  - [ ] available by all components that use the state
+  - [ ] not too 'high' that state-changes cause re-renders of irrelevant componnents
+  - [ ] not too 'low' that similar states are duplicated across components
+  - [ ] **de-coupled appropriately**, leveraging agreed-upon state-management tooling, like [React's own Context](https://reactjs.org/docs/context.html)
+
+#### State is Owned By React
+
+- [ ] State is given to React for rendering control
+  - [ ] dom manipulation handled by [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
+  - [ ] side-effects are handled by [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
+  - [ ] changable state that affects rendering is handled by [useState](https://reactjs.org/docs/hooks-reference.html#usestate) or through a prop
+  - [ ]
+
+### Components are Tested
+
+- [ ] State-Informing props are tested with various states:
+  - [ ] When no state data is passed
+  - [ ] When little state data is passed
+  - [ ] when 'lots' of state data is passed
+- [ ] Style-Informing props are tested with expected options
+  - [ ] props that inform classnames
+  - [ ] props that inform styles
+- [ ] Conditional-element controlling props are tested
+  - [ ] Children &/or elements show when expected
+  - [ ] Children &/or elements are not show when expected to not be shown
+  - [ ] 'disabline' states are tested
+  - [ ] conditional element positioning is tested
+- [ ] Interaction-Handling Callbacks are tested
+  - [ ] onClick's are called when expected
+  - [ ] mouse events are triggered/handled
+
+### JavaScript is extracted
+
+- [ ] Javascript logic is extracted when possible
+  - [ ] a function that consumes props or state and outputs ui-consumable content can be extracted && tested as a stand-alone function
+
+### Styles are scoped
+
+- [ ]
+
 ---
 
-### Build Components in order
+## Build Components in order
 
 #### Start With Props
 
@@ -265,54 +321,3 @@ Consider making **as much 'state' logic as possible** outside the scope of a com
 - need to **fetch** some data? do it in a provider
 - need to **trigger a new fetch**? call a fn that's been passed through a prop, or a fn that is imported through using a context
 - need to **respond to new data**? ... react can do this well already!
-
-## A React + Frontend Checklist
-
-When building & reviewing a frontend app using React, here's a set of items to assure:
-
-### Components are explained
-
-- [ ] A comment block at the top of a component page explains details about the component
-  - [ ] its use-cases
-  - [ ] overview of props && their impact on the component (_perhaps in combination with [a 'type' system](https://flow.org/)_)
-
-### State is handled & scoped appropriately
-
-#### Scoped
-
-- [ ] State is stored at relevant component 'level' in the rendering tree
-  - [ ] available by all components that use the state
-  - [ ] not too 'high' that state-changes cause re-renders of irrelevant componnents
-  - [ ] not too 'low' that similar states are duplicated across components
-  - [ ] **de-coupled appropriately**, leveraging agreed-upon state-management tooling, like [React's own Context](https://reactjs.org/docs/context.html)
-
-#### Owned By React
-
-- [ ] State is given to React for rendering control
-  - [ ] dom manipulation handled by [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
-  - [ ] side-effects are handled by [useEffect](https://reactjs.org/docs/hooks-reference.html#useeffect)
-  - [ ] changable state that affects rendering is handled by [useState](https://reactjs.org/docs/hooks-reference.html#usestate) or through a prop
-  - [ ]
-
-### Components are Tested
-
-- [ ] State-Informing props are tested with various states:
-  - [ ] When no state data is passed
-  - [ ] When little state data is passed
-  - [ ] when 'lots' of state data is passed
-- [ ] Style-Informing props are tested with expected options
-  - [ ] props that inform classnames
-  - [ ] props that inform styles
-- [ ] Conditional-element controlling props are tested
-  - [ ] Children &/or elements show when expected
-  - [ ] Children &/or elements are not show when expected to not be shown
-  - [ ] 'disabline' states are tested
-  - [ ] conditional element positioning is tested
-- [ ] Interaction-Handling Callbacks are tested
-  - [ ] onClick's are called when expected
-  - [ ] mouse events are triggered/handled
-
-### JavaScript is extracted
-
-- [ ] Javascript logic is extracted when possible
-  - [ ] a function that consumes props or state and outputs ui-consumable content can be extracted && tested as a stand-alone function
