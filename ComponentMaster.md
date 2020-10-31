@@ -91,13 +91,12 @@ When building & reviewing a frontend app using React, here's a set of items to a
 
 - [ ] A Component has a 'root' class corresponding with itself
   - EXAMPLE: a `<Header/>` component has a `header` class at the 'root' of the component's styles
-  - components contain conditional class logic:
-    - a 'className' prop
-      - EX. `<Header className="fancy light" />` will build html with `class="header fancy light"`, addings styles like `font-style: italics; font-weight: 200;`
-    - props that are interpreted by js & converted to class strings inside the component
-      - - EX. `<Header fancy bold />` could build html with `class="header fancy bold"`, addings styles like `font-style: italics; font-weight: 800;`
-
----
+- [ ] Components allow props to control custom use-case styling:
+  - A 'className' prop
+    - EX. `<Header className="fancy light" />` will build html with `class="header fancy light"`, addings styles like `font-size: 24px; text-align: left; font-style: italics; font-weight: 200;`
+  - Props that are interpreted by js & converted to class strings inside the component
+    - EX. `<Header fancy bold />` could build html with `class="header fancy bold"`, addings styles like `text-align: left; font-size: 24px; font-style: italics; font-weight: 800;`
+-
 
 ## Build Components in order
 
