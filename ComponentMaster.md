@@ -44,7 +44,7 @@ When building & reviewing a frontend app using React, here's a set of items to a
 
 - [ ] A comment block at the top of a component page explains details about the component
   - [ ] its use-cases
-  - [ ] overview of props && their impact on the component (_perhaps in combination with [a 'type' system](https://flow.org/)_)
+  - [ ] overview of props && their impact on the component (\_perhaps in combination with [a 'type' system](https://flow.org/)
 
 ### State is handled & scoped appropriately
 
