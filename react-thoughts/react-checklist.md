@@ -1,16 +1,25 @@
-## A React + Frontend Checklist
+- [A React + Frontend Best Practices Checklist](#a-react--frontend-best-practices-checklist)
+  - [Components are explained](#components-are-explained)
+  - [State is handled & scoped appropriately](#state-is-handled--scoped-appropriately)
+    - [State is Scoped](#state-is-scoped)
+    - [State is Owned By React](#state-is-owned-by-react)
+  - [Components are Tested](#components-are-tested)
+  - [JavaScript is extracted](#javascript-is-extracted)
+  - [Styles are scoped](#styles-are-scoped)
+
+# A React + Frontend Best Practices Checklist
 
 When building & reviewing a frontend app using React, here's a set of items to assure:
 
-### Components are explained
+## Components are explained
 
 - [ ] A comment block at the top of a component page explains details about the component
   - [ ] its use-cases
   - [ ] overview of props && their impact on the component (\_perhaps in combination with [a 'type' system](https://flow.org/)
 
-### State is handled & scoped appropriately
+## State is handled & scoped appropriately
 
-#### State is Scoped
+### State is Scoped
 
 - [ ] State is stored at relevant component 'level' in the rendering tree
   - [ ] available by all components that use the state
@@ -18,7 +27,7 @@ When building & reviewing a frontend app using React, here's a set of items to a
   - [ ] not too 'low' that similar states are duplicated across components
   - [ ] **de-coupled appropriately**, leveraging agreed-upon state-management tooling, like [React's own Context](https://reactjs.org/docs/context.html)
 
-#### State is Owned By React
+### State is Owned By React
 
 - [ ] State is given to React for rendering control
   - [ ] dom manipulation handled by [useRef](https://reactjs.org/docs/hooks-reference.html#useref)
@@ -26,7 +35,7 @@ When building & reviewing a frontend app using React, here's a set of items to a
   - [ ] changable state that affects rendering is handled by [useState](https://reactjs.org/docs/hooks-reference.html#usestate) or through a prop
   - [ ]
 
-### Components are Tested
+## Components are Tested
 
 - [ ] State-Informing props are tested with various states:
   - [ ] When no state data is passed
@@ -44,12 +53,12 @@ When building & reviewing a frontend app using React, here's a set of items to a
   - [ ] onClick's are called when expected
   - [ ] mouse events are triggered/handled
 
-### JavaScript is extracted
+## JavaScript is extracted
 
 - [ ] Javascript logic is extracted when possible
   - [ ] a function that consumes props or state and outputs ui-consumable content can be extracted && tested as a stand-alone function
 
-### Styles are scoped
+## Styles are scoped
 
 - [ ] A Component has a 'root' class corresponding with itself
   - EXAMPLE: a `<Header/>` component has a `header` class at the 'root' of the component's styles

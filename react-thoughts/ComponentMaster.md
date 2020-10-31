@@ -66,10 +66,13 @@ When building & reviewing a frontend app using React, here's a set of items to a
 
 ### Components are Tested
 
+Tests allow us ot trust that the code 'does what it is supposed to do'.
+
 - [ ] State-Informing props are tested with various states:
   - [ ] When no state data is passed
   - [ ] When little state data is passed
   - [ ] when 'lots' of state data is passed
+  - [ ] when data is 'loading'
 - [ ] Style-Informing props are tested with expected options
   - [ ] props that inform classnames
   - [ ] props that inform styles
