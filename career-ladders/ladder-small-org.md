@@ -1,5 +1,9 @@
 # A Small-Org Ladder
 
+https://www.swyx.io/ideas/
+https://www.swyx.io/choice-architecture/
+https://www.swyx.io/time-management-randy-pausch/
+
 Here, a React+Node-focused engineering ladder.  
 Tech-specific ladder details do not seem popular, as the tech is changing perhaps more-frequently than a persons' tenure in a given position.  
 Tech-specifics can help put skin on how 'principles' apply to the details of an engineers day.
