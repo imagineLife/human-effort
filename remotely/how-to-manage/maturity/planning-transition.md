@@ -34,3 +34,12 @@
   - Re-Imburse co-working space costs
 
 ... To get to THIS point (_all of the above_), may take months or years
+
+- Closing the office
+  - Represents the end of a transition && a new beginning
+  - Indicates serious-ness of remote approach
+  - Replace office with co-working space
+  - By the time the doors are shut, it could be practically already happened
+  - Maybe a final ceremony, even remotely!
+  - Maybe even a bonus, paid-for by savings of office expenses
+  - 
