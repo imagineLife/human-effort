@@ -1,2 +1,5 @@
-- How-To-Manage
-- Remote-processes
+- Remote Best Practices
+- Managing Remote Teams
+- Remote Adaptation Process for the org
+- Cultures && Values for Remote Teams
+- Outlining a Transition Plan

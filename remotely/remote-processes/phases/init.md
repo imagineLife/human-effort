@@ -51,6 +51,7 @@
 - Flexible schedules become the norm
 - Docs evolve
 - Teams enforce use of systems + tools
+- characterized by a centralized, single source of truth documentation system that is easily accessed and kept up to date
 
 ### Challenges
 
