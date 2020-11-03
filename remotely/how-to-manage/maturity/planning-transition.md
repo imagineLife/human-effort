@@ -14,3 +14,23 @@
   - Formalize docs && a plan for in-person gatherings or retreats
   - Plan on supporting team mebers profesiional development: certs, confs, education etc
   - Begin the structured informal communcation: Channels, open video rooms
+- Document the Culture
+  - Create the handbook
+    - contain best-practices
+    - codes-of-conduct
+    - **a major process, takes weeks + months**
+    - Create plan to make handbook the s.s.o.t
+  - Some thing CAN'T fit in a handbook...
+    - how folks access artifacts
+    - asset management
+    - calendering
+- Equip && Educate Team Members
+  - **Build Enthusiasm** through strong communication
+  - Prep Members
+- Issue && Re-Imburse for equipment
+  - Assess team-members equipment
+    - comfy + ergonomic gear
+  - Offer re-imbursements
+  - Re-Imburse co-working space costs
+
+... To get to THIS point (_all of the above_), may take months or years
