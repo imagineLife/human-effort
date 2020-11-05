@@ -45,3 +45,10 @@ Strategy and culture are among the primary levers at top leaders' disposal in th
   - specific enough to be actionable
 - codes-of-conduct
   - they shouldn't interfere or override legal or ethical standards
+
+
+### Notes
+- an effective value results in...
+  - team members understanding the value
+  - team members understanding how their actions can uphold the value
+- 
