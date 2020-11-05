@@ -23,7 +23,7 @@ Strategy and culture are among the primary levers at top leaders' disposal in th
   - Systematic biases
 
 
-## Why Develop Values
+## GitLab Value Statements
 [GitLab Value Statements](https://learn.gitlab.com/coursera-remote-work/values)
 - [Collaboration](https://learn.gitlab.com/coursera-remote-work/values)
 - [Results](https://learn.gitlab.com/coursera-remote-work/values)
@@ -31,3 +31,17 @@ Strategy and culture are among the primary levers at top leaders' disposal in th
 - [Diversity, inclusion, and Belonging](https://learn.gitlab.com/coursera-remote-work/values)
 - [Iteration](https://learn.gitlab.com/coursera-remote-work/values)
 - [Transparency](https://learn.gitlab.com/coursera-remote-work/values)
+
+## What are Values
+- "_...guiding principles that we use to make decisions_"
+- "_...clear concepts that are easy to understand and remember_"
+- easy to understand
+- actionable ideas that are easily tied to behavior
+
+## What valuees are not
+- strict rules or guidelines
+  - open to interpretation
+- vague or "general"
+  - specific enough to be actionable
+- codes-of-conduct
+  - they shouldn't interfere or override legal or ethical standards
