@@ -22,3 +22,12 @@ Strategy and culture are among the primary levers at top leaders' disposal in th
 - Unintentionally
   - Systematic biases
 
+
+## Why Develop Values
+[GitLab Value Statements](https://learn.gitlab.com/coursera-remote-work/values)
+- [Collaboration](https://learn.gitlab.com/coursera-remote-work/values)
+- [Results](https://learn.gitlab.com/coursera-remote-work/values)
+- [Efficiency](https://learn.gitlab.com/coursera-remote-work/values)
+- [Diversity, inclusion, and Belonging](https://learn.gitlab.com/coursera-remote-work/values)
+- [Iteration](https://learn.gitlab.com/coursera-remote-work/values)
+- [Transparency](https://learn.gitlab.com/coursera-remote-work/values)
