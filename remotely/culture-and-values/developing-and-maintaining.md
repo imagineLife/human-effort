@@ -35,3 +35,20 @@ Start at the top
 - Offer training
 - Align feedback with values
 
+## Getting it Right
+Evolve && Iterate
+Goal as leaders: "create an environment where everyone can do the best work of their careers regardless of (...many factors)"  
+- GitLab has a "Diversity, Inclusion && Belonging Manager"
+- Values may change
+
+
+## Iterating on Values
+- Collect Employee Feedback
+  - [GitLab's Feedback Form](https://learn.gitlab.com/coursera-remote-work/internal-feedback)
+  - [HBR on Anonymous Feedback](https://hbr.org/2016/01/can-your-employees-really-speak-freely)
+  - do it consistently
+  - ... this helps stay in tune with the team
+- Temote trickyness
+  - no pulse: casual chatter is MUCH more hard to hear
+- Use Metrics && Reporting to reflect cultural performance
+  - if missing recruiting targets, consider if values are not aligning with applicants
