@@ -12,3 +12,7 @@
    1. types-of-teams
    2. phases
    3. transitioning-and-maturity
+4. culture-and-values
+   1. init
+   2. remote-values
+   3. developing-and-maintaining
