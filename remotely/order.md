@@ -3,4 +3,8 @@
    2. what
    3. building-the-team
    4. work-environment
-2. 
+2. how-to-manage
+   1. communication
+   2. meetings
+   3. result-oriented
+   4. remote-leadership
