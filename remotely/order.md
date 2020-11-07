@@ -1,5 +1,6 @@
-- Remote Best Practices
-- Managing Remote Teams
-- Remote Adaptation Process for the org
-- Cultures && Values for Remote Teams
-- Outlining a Transition Plan
+1. best-practices
+   1. why
+   2. what
+   3. building-the-team
+   4. work-environment
+2. 
