@@ -32,11 +32,14 @@ Why?
 ### Challenges
 
 - team-member in-equality
-- security risks
+- security risks, are people traveling with their work machines?
+- does everyone have good equipemnt?
 
 ### Benefits
 
 - raised satisfaction
+- fewer hours lost to 'errands'
+- better recruiting
 
 ## Hybrid
 
