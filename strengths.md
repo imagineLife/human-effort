@@ -14,4 +14,12 @@
 
 ## We all have talents
 
+### Questions For Considering My Own Strengths
+
+- What do I _enjoy doing_ every day, at work, in my free time?
+- Which parts of my job excite me, motivate me, give me energy?
+- Looking at the past year of my life, what are some of the greatest things I've done?
+
+### Working with others
+
 ## Sometimes we don't relate to some of our own talents
