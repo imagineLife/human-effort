@@ -5,9 +5,9 @@
 ## Gallup Research On Strengths
 
 - People who _know and use their strengths_ tend to be better performers
-- A Study
+- A Study, on Strengths v. Turnover
   - 65,672 employees, Gallup found that
   - workers who received strengths feedback had _turnover rates that were 14.9% lower_ than for employees who received no feedback
-- A Study
+- A Study, on ++Strengths == ++Productivity
   - 530 "work units"
   - teams with managers recieving strengths feedback _showed 12.% greater productivity_ post-intervention, compared to teams with managers who recieve no intervention
