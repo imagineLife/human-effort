@@ -11,3 +11,7 @@
 - A Study, on ++Strengths == ++Productivity
   - 530 "work units"
   - teams with managers recieving strengths feedback _showed 12.% greater productivity_ post-intervention, compared to teams with managers who recieve no intervention
+
+## We all have talents
+
+## Sometimes we don't relate to some of our own talents
