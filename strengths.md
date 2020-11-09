@@ -1,5 +1,9 @@
 # Working With Strengths
 
+[Gallup Research On Strengths](#gallup-research-on-strengths)
+
+[We all have talents](#we-all-have-talents)
+
 [Gallup Reference](https://news.gallup.com/businessjournal/153341/why-strengths-matter-training.aspx#:~:text=Gallup%20research%20shows%20that%20people,tend%20to%20be%20better%20performers.&text=Doing%20what%20you%20do%20best,a%20star%20performer%20at%20work.)
 
 ## Gallup Research On Strengths
@@ -29,6 +33,4 @@ Every personality has strengths
 - (_a do-er approach_) What accomplishments have meen most impactful for me in the past year?
 - (_a perspective of importance_) What have been the most impactful moments I've helped develop this year?
 
-### Working with others
-
-## Sometimes we don't relate to some of our own talents
+## Working with others
