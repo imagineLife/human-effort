@@ -14,11 +14,20 @@
 
 ## We all have talents
 
+Every personality has strengths
+
 ### Questions For Considering My Own Strengths
 
 - What do I _enjoy doing_ every day, at work, in my free time?
 - Which parts of my job excite me, motivate me, give me energy?
 - Looking at the past year of my life, what are some of the greatest things I've done?
+
+### Digging into domains
+
+- (_a relational approach_) Which relationships have been most meaningful to me recently? What is meaningful about them?
+- (_a strategic approach_) What ideas have mattered most to me in the recently?
+- (_a do-er approach_) What accomplishments have meen most impactful for me in the past year?
+- (_a perspective of importance_) What have been the most impactful moments I've helped develop this year?
 
 ### Working with others
 
