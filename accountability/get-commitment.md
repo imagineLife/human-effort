@@ -119,4 +119,8 @@ Hold them accountable to their word, more than their action.
 
 - what are we going to do now to fulfill the promise
 - there has been a breakdown
-- deliver has been jeapordized
+- delivery has been jeapordized
+- demeaning them does not solve the problem
+- what do we do now
+  - get a re-commitment
+  - a new promise
