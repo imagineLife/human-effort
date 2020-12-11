@@ -44,6 +44,13 @@
   - track progress
     - know if it is going properly
     - have communication available when something might go wrong, things out of plan
+- I will not let you know before trying to fix it
+- its personal
+- its professional
+  - "its just business" is not right
+  - thats like saying...
+    - "i wouldnt do this in my personal life"
+    - "i dont care about how this affects our 'persons'"
 
 ## Report A Commitment at risk
 
