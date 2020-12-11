@@ -30,6 +30,10 @@ I have the power to respond
 - I can do SOMETHING about the problem
 - I am responsible for RESPONDING TO what happens to me, not responsible FOR what happens to me
 
-## Player Mentality
+## The Player Mentality
 
--
+- see how my behavior influeces the outcome
+- the player is "in the game" of the challenge
+- dignity of the person depends on the person, not the circumstances
+  - this DOESNT necessarily create success
+  - it creates uncoditional integrity
