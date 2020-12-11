@@ -5,6 +5,7 @@
   - [Establish Integrity of My Word](#establish-integrity-of-my-word)
   - [Ask](#ask)
   - [Acceptable Responses](#acceptable-responses)
+  - [The Second Yes](#the-second-yes)
 
 ## Doing More together
 
@@ -60,3 +61,13 @@ Together we can achieve more than we would individually.
 - Counter Offers
   - I can do X instead
     - different commitment
+
+## The Second Yes
+
+- Validate that they understand what it means to say yes
+  - repeat the agreement parts
+  - use the word PROMISE as an affirmation
+    - "let me understand, i hear you promising that you'll....."
+- If you can't do it, let me know
+  - 90% of people won't follow-up if they can't do it
+-
