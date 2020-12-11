@@ -6,6 +6,14 @@
   - [Ask](#ask)
   - [Acceptable Responses](#acceptable-responses)
   - [The Second Yes](#the-second-yes)
+  - [Holding Them Accountable](#holding-them-accountable)
+    - [Expectations were not effective](#expectations-were-not-effective)
+    - [Damaged Relationship](#damaged-relationship)
+    - [Steps](#steps)
+      - [Assure they understood the commitment](#assure-they-understood-the-commitment)
+      - [Make them aware they broke the commitment](#make-them-aware-they-broke-the-commitment)
+      - [Ask why they didnt communicate that they couldnt do it](#ask-why-they-didnt-communicate-that-they-couldnt-do-it)
+  - [ReEstablish Trust](#reestablish-trust)
 
 ## Doing More together
 
@@ -70,4 +78,45 @@ Together we can achieve more than we would individually.
     - "let me understand, i hear you promising that you'll....."
 - If you can't do it, let me know
   - 90% of people won't follow-up if they can't do it
--
+
+## Holding Them Accountable
+
+There could be 2 'reasons'...
+
+### Expectations were not effective
+
+- miscommunication
+- miscoordination
+
+### Damaged Relationship
+
+- I can not trust them
+
+Hold them accountable to their word, more than their action.
+
+### Steps
+
+#### Assure they understood the commitment
+
+- I understood that we agreed to xyz, did i get it right?
+
+#### Make them aware they broke the commitment
+
+- maybe simply ask what happened
+- they can explain why they did not deliver
+  - ## could be reasonable
+
+#### Ask why they didnt communicate that they couldnt do it
+
+- most folks clam up
+- the only legitimate response seems like "I messed up"
+- I.D the promis-problem, not the task problem
+- depending on the freq. of this...
+  - first time allow
+  - when repeating,
+
+## ReEstablish Trust
+
+- what are we going to do now to fulfill the promise
+- there has been a breakdown
+- deliver has been jeapordized
