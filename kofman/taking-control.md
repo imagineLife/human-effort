@@ -41,3 +41,14 @@ I have the power to respond
   - it creates uncoditional integrity
 - choose my response
   - how do i want to respond proudly to the circumstance
+
+## Being A Hero
+
+- express my values
+  - we want our values to be expressed and understood
+  - Succeeding with compromised values is always looked-over instead of failing while maintaining my values
+  - What values DO I WANT to express?
+- Discipline
+  - not just a physical accomplishment
+  - the best stories are of those without magnificent talent, rather the 'ordinary'
+-
