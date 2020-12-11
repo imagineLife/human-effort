@@ -32,8 +32,12 @@ I have the power to respond
 
 ## The Player Mentality
 
+"_The basic difference between an ordinary man and a warrior is that a warrior takes everything as a challenge while an ordinary man takes everything as a blessing or a curse._" Don Juan, Yaquin Shaman
+
 - see how my behavior influeces the outcome
 - the player is "in the game" of the challenge
 - dignity of the person depends on the person, not the circumstances
   - this DOESNT necessarily create success
   - it creates uncoditional integrity
+- choose my response
+  - how do i want to respond proudly to the circumstance
