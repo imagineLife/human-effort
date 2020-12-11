@@ -2,6 +2,7 @@
   - [Example of Vague Requests](#example-of-vague-requests)
 - [Self-Reflect before committing](#self-reflect-before-committing)
 - [On Integrity](#on-integrity)
+- [Report A Commitment at risk](#report-a-commitment-at-risk)
 -
 
 ## Clarify Request
@@ -41,4 +42,9 @@
   - track progress
     - know if it is going properly
     - have communication available when something might go wrong, things out of plan
-  -
+
+## Report A Commitment at risk
+
+"No Battle plan survives first contact with the enemy" - _Helmuth von Moltke the Elder_
+
+- report risk of non-delivery to stakeholders
