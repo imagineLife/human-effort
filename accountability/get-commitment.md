@@ -56,4 +56,7 @@ Together we can achieve more than we would individually.
 - I need to get back to you
   - get a WHEN from them
     - when they talk to someone else?
-    -
+    - Monday?
+- Counter Offers
+  - I can do X instead
+    - different commitment
