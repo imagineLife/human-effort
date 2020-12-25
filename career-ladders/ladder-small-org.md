@@ -1,7 +1,7 @@
 # A Small-Org Ladder
 
-https://www.swyx.io/ideas/
-https://www.swyx.io/choice-architecture/
+https://www.swyx.io/ideas/  
+https://www.swyx.io/choice-architecture/  
 https://www.swyx.io/time-management-randy-pausch/
 
 Here, a React+Node-focused engineering ladder.  
