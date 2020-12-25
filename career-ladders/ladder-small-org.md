@@ -17,6 +17,8 @@ Here, an in-process engineering ladder.
   - giving & receiving feedback, transferring knowledge
 - Business Insight
   - Product Purpose Alignment, Team Strategy, Company Strategy
+- Influencing
+  - Decisions, Driving Team Alignment, Process Interactions,
 
 ### Tech Specs
 
