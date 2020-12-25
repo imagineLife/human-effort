@@ -3,11 +3,20 @@
 https://www.swyx.io/ideas/  
 https://www.swyx.io/choice-architecture/  
 https://www.swyx.io/time-management-randy-pausch/
+(_influenced by circle-ci's engineering ladder_)
 
-Here, a React+Node-focused engineering ladder.  
-Tech-specific ladder details do not seem popular, as the tech is changing perhaps more-frequently than a persons' tenure in a given position.  
-Tech-specifics can help put skin on how 'principles' apply to the details of an engineers day.
-Here's an attempt -
+Here, an in-process engineering ladder.
+
+## Areas of Focus
+
+- Technical Skills
+  - code, testing, security, debugging, architecture
+- Delivery
+
+### Tech Specs
+
+**Tech-specific ladder details** do not seem popular, as the tech is changing perhaps more-frequently than a persons' tenure in a given position.  
+Tech-specifics can help put skin on how principles apply to the details of an engineers day.
 
 | Category         | Focus              | Junior Engineer                                                                                                                                                                              | Engineer                                                                                                                                                                                         | Senior Engineer                                                                                                                                                                                                                                                        |
 | :--------------- | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
