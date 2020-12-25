@@ -51,4 +51,7 @@ I have the power to respond
 - Discipline
   - not just a physical accomplishment
   - the best stories are of those without magnificent talent, rather the 'ordinary'
+
+## Empowering Other Out Of Victimhood
+
 -
