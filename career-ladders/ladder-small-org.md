@@ -12,6 +12,11 @@ Here, an in-process engineering ladder.
 - Technical Skills
   - code, testing, security, debugging, architecture
 - Delivery
+  - increments, ambiguity, self-organizing
+- Communication && Collaboration
+  - giving & receiving feedback, transferring knowledge
+- Business Insight
+  - Product Purpose Alignment, Team Strategy, Company Strategy
 
 ### Tech Specs
 
