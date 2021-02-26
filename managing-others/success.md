@@ -1,9 +1,10 @@
 - [Managing Others](#managing-others)
-    - [The Clarity of Coding](#the-clarity-of-coding)
+  - [The Clarity of Coding](#the-clarity-of-coding)
+  - [The Ambiguity of Managing Others](#the-ambiguity-of-managing-others)
 
 ## Managing Others
 
-#### The Clarity of Coding
+### The Clarity of Coding
 
 Coding for the web is significantly more 'black and white' than working with others. Coding has defined, agreed upon, written, established patterns of
 
@@ -16,6 +17,14 @@ Even when some of these details are not agreed upon amongst a team, concesus can
 - what tests should look like in their shared code-base
 - how a rest-api i architected, how the endpoints are shaped, how the requests && responses are put together
 - when to adopt new technology together - change DBs, re-consider beyond-the-team dependencies, etc
--
 
-Working with others, managing engineers - the elements of this are not as defined, agreed upon, written or established. Books are regularly re-framing the work. Enginerring management methods are being framed and reframed. Scrum is out. Agile is outdated. Every team is unique. It depends on the person.
+### The Ambiguity of Managing Others
+
+Working with others, managing engineers - the elements of this are not as defined, agreed upon, written or established.  
+Books are regularly re-framing the work.  
+Enginerring management methods are being framed and reframed.  
+The Role is a Team Lead, or an Engineering Manager, or a Lead Full Stack Engineer.  
+Scrum is out.  
+Agile is outdated.  
+Every team is unique.  
+It depends on the person.
