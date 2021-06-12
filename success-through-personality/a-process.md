@@ -24,7 +24,7 @@ There are lots of tools, and I've found these tools to be helpful -
     - Command
     - Achiever
 - [Practicing the Way of Jesus](https://www.amazon.com/Practicing-Way-Jesus-Together-Kingdom/dp/0830836349/ref=as_sl_pc_tf_til?tag=briajeschu-20&linkCode=w00&linkId=2eeb0f301f620845a0314dbf51c936b4&creativeASIN=0830836349)
-  - This book enlightened me to ways of living where poetry and pragmatism are inseperable. Themes have forever impacted the way I experience the world -
+  - Author, speaker, activist, and mentor Mark Scandrette enlightened me to ways of living where poetry and pragmatism are inseperable. Themes have forever impacted the way I experience the world -
     - Our identity as individuals is contemplated
     - An unshakable purpose can fuel our choices
     - We can learn to live open-handedly, giving generously and accepting unabashedly
